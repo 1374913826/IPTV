@@ -2411,208 +2411,208 @@ Smart知識台,https://tv.iill.top/litv/litv-longturn19
 台灣戲劇台,https://tv.iill.top/litv/litv-longturn22
 寰宇財經台,https://tv.iill.top/litv/litv-longturn23
 YouTube「台湾新聞」,#genre#
-公視新聞,https://127.0.0.1:8080/youtube/quwqlazU-c8.m3u8?t=1787516628&key=a5e8f747ce80e643c9e11677e6644a24
-鏡新聞,https://127.0.0.1:8080/youtube/5n0y6b0Q25o.m3u8?t=1787516628&key=e86cf72e7c983822dcd8771b04f5eae7
-華視新聞,https://127.0.0.1:8080/youtube/wM0g8EoUZ_E.m3u8?t=1787516628&key=662726ac956865bd87186bde57c29329
-中視新聞,https://127.0.0.1:8080/youtube/TCnaIE_SAtM.m3u8?t=1787516628&key=fcd1a7be84bfd2d27787d76e34e04fdf
-中天新聞,https://127.0.0.1:8080/youtube/oIgbl7t0S_w.m3u8?t=1787516628&key=31616ee4ecb4488bfabcee63f32f5b1e
-中天新聞2台,https://127.0.0.1:8080/youtube/WPfPjbOLNfE.m3u8?t=1787516628&key=dccde0029451d074f24cd9e45018e66e
-民視新聞,https://127.0.0.1:8080/youtube/ylYJSBUgaMA.m3u8?t=1787516628&key=4ecbcb285b0abcde1de8da70afd471e3
-三立新聞,https://127.0.0.1:8080/youtube/oZdzzvxTfUY.m3u8?t=1787516628&key=7ff2f4a442022c49e5eb5b470fc38601
-三立新聞2台,https://127.0.0.1:8080/youtube/CKjSm5ZeehE.m3u8?t=1787516628&key=5db0cb2bf505be76a69118685e7183f2
-三立12小時新聞,https://127.0.0.1:8080/youtube/MzyekdjkblA.m3u8?t=1787516628&key=bf04dd557fed132115bc78332b96018b
-東森新聞,https://127.0.0.1:8080/youtube/LuQ4S-i5zoE.m3u8?t=1787516628&key=43791e6496bb181058864b4801cdc107
-TVBS 55,https://127.0.0.1:8080/youtube/m_dhMSvUCIc.m3u8?t=1787516628&key=1da96b465633c0fd94d5e5ba33d107b2
-寰宇新聞,https://127.0.0.1:8080/youtube/6IquAgfvYmc.m3u8?t=1787516628&key=51d64fc0abf75decd1ddbdcf726645df
-寰宇新聞台灣台,https://127.0.0.1:8080/youtube/w87VGpgd90U.m3u8?t=1787516628&key=a69af19a5bafdbf36d7b80446b626aca
-台視新聞,https://127.0.0.1:8080/youtube/xL0ch83RAK8.m3u8?t=1787516628&key=2dfe9ae161809989446bc6a1bdab3cdc
+公視新聞,https://127.0.0.1:8080/youtube/quwqlazU-c8.m3u8?t=1787520143&key=04c25227828ac06c5d22c93822b4c9cf
+鏡新聞,https://127.0.0.1:8080/youtube/5n0y6b0Q25o.m3u8?t=1787520143&key=4111afde6a49ab8f0c10bbea065ba9aa
+華視新聞,https://127.0.0.1:8080/youtube/wM0g8EoUZ_E.m3u8?t=1787520143&key=24c87dedfedf984f2bed9ea4df4264ea
+中視新聞,https://127.0.0.1:8080/youtube/TCnaIE_SAtM.m3u8?t=1787520143&key=da4be1e4a0db31516befbcdf42f14a54
+中天新聞,https://127.0.0.1:8080/youtube/oIgbl7t0S_w.m3u8?t=1787520143&key=162b9fdf11f0e0ef9c8ef398b91da8f6
+中天新聞2台,https://127.0.0.1:8080/youtube/WPfPjbOLNfE.m3u8?t=1787520143&key=7e648c875a79303624c6a4421cfb758b
+民視新聞,https://127.0.0.1:8080/youtube/ylYJSBUgaMA.m3u8?t=1787520143&key=618b45eb8a2745f68c3b7a003f43e5a7
+三立新聞,https://127.0.0.1:8080/youtube/oZdzzvxTfUY.m3u8?t=1787520143&key=b861c1604f7a4bf0f65b91d0559420df
+三立新聞2台,https://127.0.0.1:8080/youtube/CKjSm5ZeehE.m3u8?t=1787520143&key=e4c68d76d5bba6c185f94496ad97b87d
+三立12小時新聞,https://127.0.0.1:8080/youtube/MzyekdjkblA.m3u8?t=1787520143&key=074917f7e94afc5492c415459a2b53c3
+東森新聞,https://127.0.0.1:8080/youtube/LuQ4S-i5zoE.m3u8?t=1787520143&key=12541c3de3c9ded421394203ff241bfb
+TVBS 55,https://127.0.0.1:8080/youtube/m_dhMSvUCIc.m3u8?t=1787520143&key=b8d00d69a65cfdb56dc5b8aaf8dea280
+寰宇新聞,https://127.0.0.1:8080/youtube/6IquAgfvYmc.m3u8?t=1787520143&key=abf293b1e54be8bd3a31c6344f86e5a7
+寰宇新聞台灣台,https://127.0.0.1:8080/youtube/w87VGpgd90U.m3u8?t=1787520143&key=97b2b82454091622fad143515887b48c
+台視新聞,https://127.0.0.1:8080/youtube/xL0ch83RAK8.m3u8?t=1787520143&key=f883bb97214325ab2275fb3f3a95c6ef
 YouTube「国际新聞」,#genre#
-公視 TaiwanPlus,https://127.0.0.1:8080/youtube/Smy2zVGK9x0.m3u8?t=1787516628&key=ce31a9ee804b22e729f328843217c8dc
-NBC News,https://127.0.0.1:8080/youtube/svjXGa-_NBM.m3u8?t=1787516628&key=56465eb93b92f04689e6059cc400b577
-Bloomberg,https://127.0.0.1:8080/youtube/iyOq8DhaMYw.m3u8?t=1787516628&key=02d6c2b75b001c30cbf06396ecdc048f
-Fox News,https://127.0.0.1:8080/youtube/YDfiTGGPYCk.m3u8?t=1787516628&key=5efe1444a29673a9b14cfa25bfa65f90
-Sky News,https://127.0.0.1:8080/youtube/w9uJg68CV4g.m3u8?t=1787516628&key=6aea25ab25828f481e67e15542a06965
-euronews,https://127.0.0.1:8080/youtube/pykpO5kQJ98.m3u8?t=1787516628&key=c95a13fffcb3b61b5a29beed5973a6d0
-DW News 德國之聲,https://127.0.0.1:8080/youtube/6HodCcEW_oQ.m3u8?t=1787516628&key=b1d3577d42c5b31ad1f3c77cec2cffcf
-France 24,https://127.0.0.1:8080/youtube/tkDUSYHoKxE.m3u8?t=1787516628&key=9a94c3c9915c0442fc4c26d6a88abb01
-ABC News,https://127.0.0.1:8080/youtube/gN0PZCe-kwQ.m3u8?t=1787516628&key=940938eae4f28ef120d0a1d7a42c66f9
-CNBC,https://127.0.0.1:8080/youtube/e3BCOSBPLTM.m3u8?t=1787516628&key=5dd21bc5fb1e7dd6efb707964d9f8d90
-ABC7,https://127.0.0.1:8080/youtube/d5YNEoTqMZ4.m3u8?t=1787516628&key=e7319f34bbd62a00d30d876097e30779
-NHK WORLD JAPAN,https://127.0.0.1:8080/youtube/f0lYkdA-Gtw.m3u8?t=1787516628&key=e1ad19279599e3f66a3ccbb273ff565b
-全日本新聞網 ANN,https://127.0.0.1:8080/youtube/coYw-eVU0Ks.m3u8?t=1787516628&key=f9d14f293f442f04ea56a1cfa0aae266
-朝日電視網,https://127.0.0.1:8080/youtube/sTAqx_1Yrww.m3u8?t=1787516628&key=ccff8587be3dec239af1b23a5ff6bd84
-日本新聞網 TBS,https://127.0.0.1:8080/youtube/ohI356mwBp8.m3u8?t=1787516628&key=90ec538718cdd567239519c3af30c906
-半島電視台,https://127.0.0.1:8080/youtube/gCNeDWCI0vo.m3u8?t=1787516628&key=63dda8f52687da42c20782d00cb32202
-新加坡 CNA,https://127.0.0.1:8080/youtube/XWq5kBlakcQ.m3u8?t=1787516628&key=03d28774804c299e47dc0ad6eb5c0648
-阿里郞電視台,https://127.0.0.1:8080/youtube/CJVBX7KI5nU.m3u8?t=1787516628&key=2819a6665a22d842fa039fd00217af8a
-韓國 YTN,https://127.0.0.1:8080/youtube/FJfwehhzIhw.m3u8?t=1787516628&key=0c80a7082156d14c3a1f255e1b2442ce
-韓國 KBS,https://127.0.0.1:8080/youtube/c7UvgHP90F8.m3u8?t=1787516628&key=32787aa3ae825464f1c18e86e34319a7
+公視 TaiwanPlus,https://127.0.0.1:8080/youtube/Smy2zVGK9x0.m3u8?t=1787520143&key=39ea739bdfb97dc03b1a9e5d8daf564f
+NBC News,https://127.0.0.1:8080/youtube/svjXGa-_NBM.m3u8?t=1787520143&key=2cf38c68cc054d6d9e2fb8408e84248e
+Bloomberg,https://127.0.0.1:8080/youtube/iyOq8DhaMYw.m3u8?t=1787520143&key=b515c2388b7db35288db5714ba653be7
+Fox News,https://127.0.0.1:8080/youtube/YDfiTGGPYCk.m3u8?t=1787520143&key=bfc5112aff7c63f44cca448c0f975b1d
+Sky News,https://127.0.0.1:8080/youtube/w9uJg68CV4g.m3u8?t=1787520143&key=a68ab0ea4b084ac96b8b5e4094dfb4ea
+euronews,https://127.0.0.1:8080/youtube/pykpO5kQJ98.m3u8?t=1787520143&key=76056aa2cf6c7dd42ada23dcfe0d177d
+DW News 德國之聲,https://127.0.0.1:8080/youtube/6HodCcEW_oQ.m3u8?t=1787520143&key=12392e917a113809b0b6bd32652e5cdd
+France 24,https://127.0.0.1:8080/youtube/tkDUSYHoKxE.m3u8?t=1787520143&key=966e4aa857baaf8f8a9f052f10fa79fe
+ABC News,https://127.0.0.1:8080/youtube/gN0PZCe-kwQ.m3u8?t=1787520143&key=3493a1900dabb7dde541a0a878473932
+CNBC,https://127.0.0.1:8080/youtube/e3BCOSBPLTM.m3u8?t=1787520143&key=d7fc41c9ba89464d6e41ead41ffbb6f5
+ABC7,https://127.0.0.1:8080/youtube/d5YNEoTqMZ4.m3u8?t=1787520143&key=de29643aecda34ab4e6c6879f1d2c6e6
+NHK WORLD JAPAN,https://127.0.0.1:8080/youtube/f0lYkdA-Gtw.m3u8?t=1787520143&key=c82cc710a1b317e967f1e040fca6a1b9
+全日本新聞網 ANN,https://127.0.0.1:8080/youtube/coYw-eVU0Ks.m3u8?t=1787520143&key=341185c77d3b25f8a9b3b84924196590
+朝日電視網,https://127.0.0.1:8080/youtube/sTAqx_1Yrww.m3u8?t=1787520143&key=1f6fe5b29a067b168e82c9ac65dd0e92
+日本新聞網 TBS,https://127.0.0.1:8080/youtube/ohI356mwBp8.m3u8?t=1787520143&key=8e9762f6d03a20e58d68552bdc4915a1
+半島電視台,https://127.0.0.1:8080/youtube/gCNeDWCI0vo.m3u8?t=1787520143&key=62642d439e2e480f321d26afaebe5131
+新加坡 CNA,https://127.0.0.1:8080/youtube/XWq5kBlakcQ.m3u8?t=1787520143&key=d9256c489ffd551b6528554c162e1c8b
+阿里郞電視台,https://127.0.0.1:8080/youtube/CJVBX7KI5nU.m3u8?t=1787520143&key=a0662772fe66182f26b0d6ecf411681d
+韓國 YTN,https://127.0.0.1:8080/youtube/FJfwehhzIhw.m3u8?t=1787520143&key=5796bcd72bbc47636616394f649ea93e
+韓國 KBS,https://127.0.0.1:8080/youtube/c7UvgHP90F8.m3u8?t=1787520143&key=8332028074743687a53589c415c10679
 YouTube「台灣財經」,#genre#
-東森財經新聞,https://127.0.0.1:8080/youtube/WHEPzbFA3hw.m3u8?t=1787516628&key=0aa67333c773e1aef8ecaa30836928ca
-東森財經股市,https://127.0.0.1:8080/youtube/LbS-xQ67fos.m3u8?t=1787516628&key=70522a349096dbb6ba73e2128e6711dd
-三立 iNEWS,https://127.0.0.1:8080/youtube/CKjSm5ZeehE.m3u8?t=1787516628&key=5db0cb2bf505be76a69118685e7183f2
-寰宇財經台,https://127.0.0.1:8080/youtube/25SE1bbTv9.m3u8?t=1787516628&key=17fd38fb950acff5ea3a6217f0e8eba7
-非凡商業台,https://127.0.0.1:8080/youtube/JTAwlv6pzcQ.m3u8?t=1787516628&key=317c92b55ce7ec711e9c6b3e32b8686d
-全球財經台,https://127.0.0.1:8080/youtube/LUzqZHSIqWc.m3u8?t=1787516628&key=5aefc58dfcb3e0978e5d6855ccf8e6aa
-運通財經台,https://127.0.0.1:8080/youtube/7_DEvPyHImI.m3u8?t=1787516628&key=59c01c6ab033dc0ee7e644f65b61fbc8
-中廣新聞網,https://127.0.0.1:8080/youtube/DXCypeML3bQ.m3u8?t=1787516628&key=8ddb40da3360cfc2f4acd8b0a0c885ad
+東森財經新聞,https://127.0.0.1:8080/youtube/WHEPzbFA3hw.m3u8?t=1787520143&key=00da73856517971479fbd286c08f2dbc
+東森財經股市,https://127.0.0.1:8080/youtube/LbS-xQ67fos.m3u8?t=1787520143&key=f4f96f00ad7d91d04c5b64d8f9d7f7ab
+三立 iNEWS,https://127.0.0.1:8080/youtube/CKjSm5ZeehE.m3u8?t=1787520143&key=e4c68d76d5bba6c185f94496ad97b87d
+寰宇財經台,https://127.0.0.1:8080/youtube/25SE1bbTv9.m3u8?t=1787520143&key=dd222edcd13033e51f9989027461a9b2
+非凡商業台,https://127.0.0.1:8080/youtube/JTAwlv6pzcQ.m3u8?t=1787520143&key=a5ca2cf159d9542018521c8133340307
+全球財經台,https://127.0.0.1:8080/youtube/LUzqZHSIqWc.m3u8?t=1787520143&key=6608fe5442148b2546f2f013f37d6139
+運通財經台,https://127.0.0.1:8080/youtube/7_DEvPyHImI.m3u8?t=1787520143&key=7eaadd74e074b58eb83622626d8f7ad4
+中廣新聞網,https://127.0.0.1:8080/youtube/DXCypeML3bQ.m3u8?t=1787520143&key=d7deeec70e08d2aae18d2e94b87e2bf0
 YouTube「台湾國會」,#genre#
-國會頻道1,https://127.0.0.1:8080/youtube/4HysYHJ6GkY.m3u8?t=1787516628&key=6153cb240c0103afc9cc4de34c564131
-國會頻道2,https://127.0.0.1:8080/youtube/Lj8OWF6nzcg.m3u8?t=1787516628&key=c216e24d610424f1d7167f7dad57b8ba
-立法院會議,https://127.0.0.1:8080/youtube/tDg3bJFYLzI.m3u8?t=1787516628&key=b0ac7d8ac1deb9038282505a6dc03514
-朝野黨團協商,https://127.0.0.1:8080/youtube/yUx5lB4mhZk.m3u8?t=1787516628&key=a815126e7c8f27a245666f8c707e2744
-教育及文化委員會,https://127.0.0.1:8080/youtube/Qo9QwuCpV3s.m3u8?t=1787516628&key=91b390ac2750cae971a9009547b75f45
-司法及法制委員會,https://127.0.0.1:8080/youtube/KUhidt89DVo.m3u8?t=1787516628&key=18047c22aab1a0a44afd8b0972a48064
-交通委員會,https://127.0.0.1:8080/youtube/teud7KwyEPw.m3u8?t=1787516628&key=09c6c51fa5fe5da748259c23d3db642b
-財政委員會,https://127.0.0.1:8080/youtube/Cidl9JoRtGk.m3u8?t=1787516628&key=3500c6f41e14df710506c284f0e4804d
-經濟委員會,https://127.0.0.1:8080/youtube/xfikIGtkQeA.m3u8?t=1787516628&key=6f8c7bf12547f5424563af509a0beabe
-外交及國防委員會,https://127.0.0.1:8080/youtube/Af0TFVbxvAQ.m3u8?t=1787516628&key=8f6bcdd6f00125fe592fc293bd635320
-內政委員會,https://127.0.0.1:8080/youtube/vGX0bMBVa4k.m3u8?t=1787516628&key=de31e5265d3635137d0f968dad0e9259
-程序委員會,https://127.0.0.1:8080/youtube/IvAXtzx5cUI.m3u8?t=1787516628&key=47db2cc6694dd8120f2ddbb671c225cf
-紀律委員會,https://127.0.0.1:8080/youtube/KyHM5yvcLU4.m3u8?t=1787516628&key=136a61f2d90317a963acc73b05012d69
-修憲委員會,https://127.0.0.1:8080/youtube/1s_XWr7KzVE.m3u8?t=1787516628&key=b37a3cb03c84da4453eb722d93644198
-社會福利及衛生環境委員會,https://127.0.0.1:8080/youtube/DdUWlWZVOi8.m3u8?t=1787516628&key=e3c82452e6ded11caf48f6710e75f75d
-經費稽核委員會,https://127.0.0.1:8080/youtube/nkejc54RyDU.m3u8?t=1787516628&key=ad8a520b0909a0ce4153d5919fe76271
+國會頻道1,https://127.0.0.1:8080/youtube/4HysYHJ6GkY.m3u8?t=1787520143&key=9ba7635e75d5254f0f33e75a331c5699
+國會頻道2,https://127.0.0.1:8080/youtube/Lj8OWF6nzcg.m3u8?t=1787520143&key=af3d85f648c5ea21d0d5839007e3b928
+立法院會議,https://127.0.0.1:8080/youtube/tDg3bJFYLzI.m3u8?t=1787520143&key=d174c445313d4c0b1657009a4fbf56d0
+朝野黨團協商,https://127.0.0.1:8080/youtube/yUx5lB4mhZk.m3u8?t=1787520143&key=f0bbd8f4921738bd5635d684d3076064
+教育及文化委員會,https://127.0.0.1:8080/youtube/Qo9QwuCpV3s.m3u8?t=1787520143&key=37ba4b5641c9ef35f48ea538b73da5cb
+司法及法制委員會,https://127.0.0.1:8080/youtube/KUhidt89DVo.m3u8?t=1787520143&key=c51952f2d08c364bfac5f368ed06153f
+交通委員會,https://127.0.0.1:8080/youtube/teud7KwyEPw.m3u8?t=1787520143&key=49916ee53e9486de9834965de280b7db
+財政委員會,https://127.0.0.1:8080/youtube/Cidl9JoRtGk.m3u8?t=1787520143&key=6a21bab14cbb4a35023e3bea761cec60
+經濟委員會,https://127.0.0.1:8080/youtube/xfikIGtkQeA.m3u8?t=1787520143&key=4fee51da3a305178e2764b9166cbacfe
+外交及國防委員會,https://127.0.0.1:8080/youtube/Af0TFVbxvAQ.m3u8?t=1787520143&key=1a3b5aaff80cfed2807d630887e8a5fc
+內政委員會,https://127.0.0.1:8080/youtube/vGX0bMBVa4k.m3u8?t=1787520143&key=3ee6241e1050c2f1f12c5cb986f756c0
+程序委員會,https://127.0.0.1:8080/youtube/IvAXtzx5cUI.m3u8?t=1787520143&key=2513283f10c559bf7cc6b098a18ccc35
+紀律委員會,https://127.0.0.1:8080/youtube/KyHM5yvcLU4.m3u8?t=1787520143&key=6dfae604fb0f1040f6acc5f4279ab896
+修憲委員會,https://127.0.0.1:8080/youtube/1s_XWr7KzVE.m3u8?t=1787520143&key=bdc127904518a97edf2c5a7526ec39f5
+社會福利及衛生環境委員會,https://127.0.0.1:8080/youtube/DdUWlWZVOi8.m3u8?t=1787520143&key=4f79bb661a056d0fc027df3a5510e7c4
+經費稽核委員會,https://127.0.0.1:8080/youtube/nkejc54RyDU.m3u8?t=1787520143&key=4959edcbe4442f0c2807e879f5743dee
 YouTube「台灣政論」,#genre#
-94要客訴,https://127.0.0.1:8080/youtube/5jjcUKXP2Ac.m3u8?t=1787516628&key=8759f2af8dfcf45d339195894d56875a
-新聞大白話,https://127.0.0.1:8080/youtube/Y491n5FecPE.m3u8?t=1787516628&key=a4cde5273a591e4c123d796fe1f0c11c
-前進新台灣,https://127.0.0.1:8080/youtube/GaQCo4f3Ujs?list=PLd5zGth6CDdWAZYkB6s0j844ywVVTPyFl.m3u8&t=1787516628&key=cda9e28034a8cd3549798b988596639b
-國民大會,https://127.0.0.1:8080/youtube/ccdrE3P4NIA.m3u8?t=1787516628&key=2aa426662cd0b5694f13066260f7ba5b
-新台灣加油,https://127.0.0.1:8080/youtube/zZUZZNRbHhU?list=PLd5zGth6CDdUAYUqJy3p5KY1ui79_Mtrt.m3u8&t=1787516628&key=0be564cb40d5ce2b14996fa2dacf359b
-少康戰情室,https://127.0.0.1:8080/youtube/qa7cuB0ub_I.m3u8?t=1787516628&key=8cf78d8124eb1433f85e3a5b934f90ba
+94要客訴,https://127.0.0.1:8080/youtube/5jjcUKXP2Ac.m3u8?t=1787520143&key=2eacfa1680164b46d39b02af8899058a
+新聞大白話,https://127.0.0.1:8080/youtube/Y491n5FecPE.m3u8?t=1787520143&key=602a87b100ab2bbffb978ba735b1d5fb
+前進新台灣,https://127.0.0.1:8080/youtube/GaQCo4f3Ujs?list=PLd5zGth6CDdWAZYkB6s0j844ywVVTPyFl.m3u8&t=1787520143&key=790596308efb23b72e35f1df85c71451
+國民大會,https://127.0.0.1:8080/youtube/ccdrE3P4NIA.m3u8?t=1787520143&key=ffc4b897589b04c7f6c68920e1c847dc
+新台灣加油,https://127.0.0.1:8080/youtube/zZUZZNRbHhU?list=PLd5zGth6CDdUAYUqJy3p5KY1ui79_Mtrt.m3u8&t=1787520143&key=de59897ccc7d273021c0c29fc8e6c9b0
+少康戰情室,https://127.0.0.1:8080/youtube/qa7cuB0ub_I.m3u8?t=1787520143&key=5c7c78fbd743a2b5a2de0ea303bc6998
 YouTube「綜藝」,#genre#
-綜藝玩很大,https://127.0.0.1:8080/youtube/ryClunmbUaI.m3u8?t=1787516628&key=3f8121dc35e41bcbdfa80d2b45571b84
-飢餓遊戲,https://127.0.0.1:8080/youtube/A98LJq71BZg.m3u8?t=1787516628&key=a48ce1e82320cd3a6df350149e58d275
-天才衝衝衝,https://127.0.0.1:8080/youtube/QUcOMgw4srY.m3u8?t=1787516628&key=b59cd4aeeb09efef8b1b853e2637c78a
-大熱門猜歌王4周年,https://127.0.0.1:8080/youtube/cpsP1wd-HgM.m3u8?t=1787516628&key=d494c8351779ec21d6ece8c200656856
-11點熱吵店,https://127.0.0.1:8080/youtube/nLi9sJV_SSU.m3u8?t=1787516628&key=a085eaabb00d190521df50269d7bf0eb
-住左邊住右邊,https://127.0.0.1:8080/youtube/_2IsSRh4FAA.m3u8?t=1787516628&key=6900231a1d6b63aa90842a0bd600b8b6
-萬秀豬王,https://127.0.0.1:8080/youtube/ADDSmXoPDY8.m3u8?t=1787516628&key=2ff61f8077a60699547a3ea4d06b665f
-我愛冰冰 Show,https://127.0.0.1:8080/youtube/zf1hVmrf5r8.m3u8?t=1787516628&key=9710c30121b35d4b00dcff5bebe11a9e
-豬哥會社,https://127.0.0.1:8080/youtube/0aBJU1mFpsk.m3u8?t=1787516628&key=d8a243b67c3a8dcb8f5a7621e33391ce
-中廣流行網,https://127.0.0.1:8080/youtube/TsiMLrOSY5U.m3u8?t=1787516628&key=20d802747239b15ec8967b8317d07640
-公視,https://127.0.0.1:8080/youtube/C6gYqSHLRw4.m3u8?t=1787516628&key=85b4d533e590ce38e05a20e9ebe1b81e
-公視台語台,https://127.0.0.1:8080/youtube/6KlRR_DGhmI.m3u8?t=1787516628&key=ba70c26a1abbc5f60938386255fdb028
+綜藝玩很大,https://127.0.0.1:8080/youtube/ryClunmbUaI.m3u8?t=1787520143&key=6ff61d4a97d4ab8650f6e0fe65ca5b70
+飢餓遊戲,https://127.0.0.1:8080/youtube/A98LJq71BZg.m3u8?t=1787520143&key=79de0eb7b0d78d8890322600c09a858a
+天才衝衝衝,https://127.0.0.1:8080/youtube/QUcOMgw4srY.m3u8?t=1787520143&key=2d964eb6aa9bc4e49f910b93ad7d6128
+大熱門猜歌王4周年,https://127.0.0.1:8080/youtube/cpsP1wd-HgM.m3u8?t=1787520143&key=54fe99a7c8280239f26253d4ac20b279
+11點熱吵店,https://127.0.0.1:8080/youtube/nLi9sJV_SSU.m3u8?t=1787520143&key=128197cbc673c0f6ad4511748fa277e4
+住左邊住右邊,https://127.0.0.1:8080/youtube/_2IsSRh4FAA.m3u8?t=1787520143&key=333d7758a493ef6bd9c6fa072d4ea0fd
+萬秀豬王,https://127.0.0.1:8080/youtube/ADDSmXoPDY8.m3u8?t=1787520143&key=9289496bae12b1cfb5ab8e1fc357cce6
+我愛冰冰 Show,https://127.0.0.1:8080/youtube/zf1hVmrf5r8.m3u8?t=1787520143&key=a688fdd77ae65790df160278fe84e5ef
+豬哥會社,https://127.0.0.1:8080/youtube/0aBJU1mFpsk.m3u8?t=1787520143&key=9de1d9dcfc2f13c25dd87fc668dd95f1
+中廣流行網,https://127.0.0.1:8080/youtube/TsiMLrOSY5U.m3u8?t=1787520143&key=05d251e79fed41569ab7d57a88ba32ef
+公視,https://127.0.0.1:8080/youtube/C6gYqSHLRw4.m3u8?t=1787520143&key=2368110fd11adad5c6cc70f414faad08
+公視台語台,https://127.0.0.1:8080/youtube/6KlRR_DGhmI.m3u8?t=1787520143&key=5b2e8ac44709dde5eda41054814fbe1d
 YouTube「電影」,#genre#
-GATV 電影台,https://127.0.0.1:8080/youtube/XDrGAVTkJfM.m3u8?t=1787516628&key=db0ee4e624c3703c8d0b90672998205a
+GATV 電影台,https://127.0.0.1:8080/youtube/XDrGAVTkJfM.m3u8?t=1787520143&key=5bb9a089591603bc68c0b9be0ceb75e7
 YouTube「電視劇」,#genre#
-花樣少年少女,https://127.0.0.1:8080/youtube/meLyfePctVQ.m3u8?t=1787516628&key=675050735f6551149c00d08c76f0d9a3
-終極系列,https://127.0.0.1:8080/youtube/Rqgc4mM5A3Y.m3u8?t=1787516628&key=fd51649ef098c3fec9c32919de0c3769
-新兵日記 特戰英雄HD,https://127.0.0.1:8080/youtube/hbm8Uov-YOE.m3u8?t=1787516628&key=27d86d4a5b9333b586f7a21254998705
-藍色水玲瓏,https://127.0.0.1:8080/youtube/298QROP4xe0.m3u8?t=1787516628&key=a97567f3e3ea49502593f5d98c21f1d2
-水雲間,https://127.0.0.1:8080/youtube/P_joZpoB444.m3u8?t=1787516628&key=cb54cd926c07144bb33d7497e6ff9095
-梅花烙,https://127.0.0.1:8080/youtube/jkF7cseHZ5s.m3u8?t=1787516628&key=31bde0827838e31494a325cdb30c49d5
-華視戲劇頻道,https://127.0.0.1:8080/youtube/5_NHwTULasE.m3u8?t=1787516628&key=1524f4f0937159283d225fb1a97b80a9
-神機妙算劉伯溫,https://127.0.0.1:8080/youtube/9GZNsvhmPXo.m3u8?t=1787516628&key=630b77a8d4539dca43f33962c9657d78
-瑯琊榜,https://127.0.0.1:8080/youtube/u1uU2AzsD0k.m3u8?t=1787516628&key=f32e08ccac0b6de94a7eb5dd12cd4d7d
-知否知否應是綠肥紅瘦,https://127.0.0.1:8080/youtube/hcxLMIfxi0A.m3u8?t=1787516628&key=8ad91788664f2261c9ed33195ce8ddb9
-三國2010,https://127.0.0.1:8080/youtube/Ta_6UmVunh4.m3u8?t=1787516628&key=d1e66434048601b6ed50fcdba8f65ec5
-神鵰俠侶2014,https://127.0.0.1:8080/youtube/Vu_eDZF3PXU.m3u8?t=1787516628&key=dc28273144d5a38a8d819095183e5d89
-去有風的地方,https://127.0.0.1:8080/youtube/be6L9zpVqw4.m3u8?t=1787516628&key=5bc9a3f9394d35d7839d298c8561dabe
-我和我們在一起,https://127.0.0.1:8080/youtube/FdoVTSTSMho.m3u8?t=1787516628&key=959ca6ccccbf9c47f93c00ef11befb7c
+花樣少年少女,https://127.0.0.1:8080/youtube/meLyfePctVQ.m3u8?t=1787520143&key=e53e4ea8e0bf52a7d34fd60bc5c40e0f
+終極系列,https://127.0.0.1:8080/youtube/Rqgc4mM5A3Y.m3u8?t=1787520143&key=653b976372e3fc28f3450321957c8ee3
+新兵日記 特戰英雄HD,https://127.0.0.1:8080/youtube/hbm8Uov-YOE.m3u8?t=1787520143&key=21ddf4fd411ce4dc2dbc2716622de2c0
+藍色水玲瓏,https://127.0.0.1:8080/youtube/298QROP4xe0.m3u8?t=1787520143&key=427b81fa8f909d4916b02005405e6505
+水雲間,https://127.0.0.1:8080/youtube/P_joZpoB444.m3u8?t=1787520143&key=b5f6425ece007fff75f3e3f6451b3543
+梅花烙,https://127.0.0.1:8080/youtube/jkF7cseHZ5s.m3u8?t=1787520143&key=4d172944bfc7fca433b2d7f11cb5bb7c
+華視戲劇頻道,https://127.0.0.1:8080/youtube/5_NHwTULasE.m3u8?t=1787520143&key=4f3a2abf83675886083cec32b067e363
+神機妙算劉伯溫,https://127.0.0.1:8080/youtube/9GZNsvhmPXo.m3u8?t=1787520143&key=45bc59b1f6115e699c5914b48821bf31
+瑯琊榜,https://127.0.0.1:8080/youtube/u1uU2AzsD0k.m3u8?t=1787520143&key=86cc1a1ae6da4712188821c07f4dec85
+知否知否應是綠肥紅瘦,https://127.0.0.1:8080/youtube/hcxLMIfxi0A.m3u8?t=1787520143&key=2069293f1cdf8501264ee4d3d24aea50
+三國2010,https://127.0.0.1:8080/youtube/Ta_6UmVunh4.m3u8?t=1787520143&key=f6a060b9808fd80b2ef1dba8e91c4197
+神鵰俠侶2014,https://127.0.0.1:8080/youtube/Vu_eDZF3PXU.m3u8?t=1787520143&key=9d1f502fdb1884bebb67511e388a4980
+去有風的地方,https://127.0.0.1:8080/youtube/be6L9zpVqw4.m3u8?t=1787520143&key=95f5bd6c50fd01524c8cda5ded16fef9
+我和我們在一起,https://127.0.0.1:8080/youtube/FdoVTSTSMho.m3u8?t=1787520143&key=826921dac91e80bc57f45e51d09889f6
 YouTube「美食」,#genre#
-非凡大探索 台北美食,https://127.0.0.1:8080/youtube/PTJSLPpUwgw.m3u8?t=1787516628&key=bca0effb2b611469fdbf1b2096499c09
-非凡大探索 台中美食,https://127.0.0.1:8080/youtube/Im3P69GqV90.m3u8?t=1787516628&key=eb66491f3eaa0047155fecc99a588dc0
-非凡大探索 高雄美食,https://127.0.0.1:8080/youtube/ZN2naHsV94M.m3u8?t=1787516628&key=7fbda971e700c55f2d5cf7e316b5d92e
-亞洲美食頻道,https://127.0.0.1:8080/youtube/nUzOmgx3RvM.m3u8?t=1787516628&key=9185c7091ba6bfec67c81cb6310a96ad
+非凡大探索 台北美食,https://127.0.0.1:8080/youtube/PTJSLPpUwgw.m3u8?t=1787520143&key=672eef15360aaa1025e65e40e45b05c2
+非凡大探索 台中美食,https://127.0.0.1:8080/youtube/Im3P69GqV90.m3u8?t=1787520143&key=0af742dabac0aa1aa815f2034a1a21cb
+非凡大探索 高雄美食,https://127.0.0.1:8080/youtube/ZN2naHsV94M.m3u8?t=1787520143&key=894ea5b12ef8f2006cfc277ea6466779
+亞洲美食頻道,https://127.0.0.1:8080/youtube/nUzOmgx3RvM.m3u8?t=1787520143&key=a91507e6c4da4977dee5d220b70e4d11
 YouTube「旅遊/文化」,#genre#
-MIT 台灣誌,https://127.0.0.1:8080/youtube/zt9tSbiw4sg.m3u8?t=1787516628&key=b14d0b6ca4747a47588ef50e22d253d9
-大陸尋奇,https://127.0.0.1:8080/youtube/UtOw97Ba8hE.m3u8?t=1787516628&key=a4675df8daa642db7deba1b6bc539465
-台灣啟示錄,https://127.0.0.1:8080/youtube/4Eu20-JSWqQ.m3u8?t=1787516628&key=d6f9fb48472e6199f2e2cd8f308d69ce
+MIT 台灣誌,https://127.0.0.1:8080/youtube/zt9tSbiw4sg.m3u8?t=1787520143&key=6664001aaed8dfeee011701e8a78514f
+大陸尋奇,https://127.0.0.1:8080/youtube/UtOw97Ba8hE.m3u8?t=1787520143&key=8218af5bfa079ac0dec2066330982c2c
+台灣啟示錄,https://127.0.0.1:8080/youtube/4Eu20-JSWqQ.m3u8?t=1787520143&key=acc5ff4408596f15c75d59c4b51d49cc
 YouTube「兒童」,#genre#
-MOMO 親子台,https://127.0.0.1:8080/youtube/R3PZkCUJSbQ.m3u8?t=1787516628&key=43f38f07a63b6113ada164bda31e18e1
-YOYO TV,https://127.0.0.1:8080/youtube/YOOQXWYym5g.m3u8?t=1787516628&key=f04e3543126b3739bf813cc9ba1f44b3
-小豬佩奇,https://127.0.0.1:8080/youtube/nehQ7AMCBhI.m3u8?t=1787516628&key=67ec507fbfd770e010dee3f443da608e
-我們這一家,https://127.0.0.1:8080/youtube/WHednLn-HjA.m3u8?t=1787516628&key=39263ab6a916fb8ccbb4cd807f136350
-蠟筆小新TV版,https://127.0.0.1:8080/youtube/T0J79UaCTAs.m3u8?t=1787516628&key=b924166df74bf717d0e66b4e69d3dd59
-新哆啦A夢,https://127.0.0.1:8080/youtube/dgAEF2ppKg8.m3u8?t=1787516628&key=450d23483cfe7a1552aacd566fb424c6
-中華一番,https://127.0.0.1:8080/youtube/JemHjZa_VEU.m3u8?t=1787516628&key=5df615d242b9a2b2f2dec374373c0128
-JOJO的奇妙冒險,https://127.0.0.1:8080/youtube/pMR3iehJMjk.m3u8?t=1787516628&key=bf93ac704ae6282c562af227314ae3eb
-湯姆貓,https://127.0.0.1:8080/youtube/tKz1JGQP_zw.m3u8?t=1787516628&key=0cddfc94d62a5ff467871c3964519866
+MOMO 親子台,https://127.0.0.1:8080/youtube/R3PZkCUJSbQ.m3u8?t=1787520143&key=026d798da7aa51ac18b90009a897c38b
+YOYO TV,https://127.0.0.1:8080/youtube/YOOQXWYym5g.m3u8?t=1787520143&key=e62ce69dc8417bd0c8b4510b9b0425f1
+小豬佩奇,https://127.0.0.1:8080/youtube/nehQ7AMCBhI.m3u8?t=1787520143&key=a940eac113de19d1950628632118aa1a
+我們這一家,https://127.0.0.1:8080/youtube/WHednLn-HjA.m3u8?t=1787520143&key=3a8135eaf51f8316bd82a88e6a2a382b
+蠟筆小新TV版,https://127.0.0.1:8080/youtube/T0J79UaCTAs.m3u8?t=1787520143&key=592569f69db336e62743b3f5d4a32911
+新哆啦A夢,https://127.0.0.1:8080/youtube/dgAEF2ppKg8.m3u8?t=1787520143&key=26badf6a5c551372b0828961c80c4648
+中華一番,https://127.0.0.1:8080/youtube/JemHjZa_VEU.m3u8?t=1787520143&key=0b02c25dc521f55e51f91daa4b6f47f9
+JOJO的奇妙冒險,https://127.0.0.1:8080/youtube/pMR3iehJMjk.m3u8?t=1787520143&key=26447156bef3291b9594f4f776452a10
+湯姆貓,https://127.0.0.1:8080/youtube/tKz1JGQP_zw.m3u8?t=1787520143&key=a107bfe58cff0a234aaf5f9d4c392264
 YouTube「音樂」,#genre#
-KKBOX華語單曲,https://127.0.0.1:8080/youtube/WXM7k3ZcUdc.m3u8?t=1787516628&key=8659ff49bccc5989d12f8b3d982015b4
-80首必听经典老歌,https://127.0.0.1:8080/youtube/geXFAGgTxWI.m3u8?t=1787516628&key=a8e00cd137b5f94c0f8bb25b11413c72
-经典老歌500首大全,https://127.0.0.1:8080/youtube/1MHH2_NmzFs.m3u8?t=1787516628&key=53428acb661f72cfc8ceb82330989584
-粵語流行音樂合集,https://127.0.0.1:8080/youtube/CFCynOQWX0Q.m3u8?t=1787516628&key=ff727a1009956062eeb8b50dd4cef0ce
-2025夜店混音,https://127.0.0.1:8080/youtube/aQT8mUr445I.m3u8?t=1787516628&key=be6e966398c1b576bb8ad826d8b05e44
+KKBOX華語單曲,https://127.0.0.1:8080/youtube/WXM7k3ZcUdc.m3u8?t=1787520143&key=85ad7335369cdbb20402a8a3a82ec96a
+80首必听经典老歌,https://127.0.0.1:8080/youtube/geXFAGgTxWI.m3u8?t=1787520143&key=5e68ae48dacaa70f19768dd386ecc46f
+经典老歌500首大全,https://127.0.0.1:8080/youtube/1MHH2_NmzFs.m3u8?t=1787520143&key=b8dd97b40e8e8555dbfa9ccb67a6e1f5
+粵語流行音樂合集,https://127.0.0.1:8080/youtube/CFCynOQWX0Q.m3u8?t=1787520143&key=0184c8759255c88afb8753025c39ef53
+2025夜店混音,https://127.0.0.1:8080/youtube/aQT8mUr445I.m3u8?t=1787520143&key=46f485eeaab9e5c972b248c8df6208a4
 YouTube「體育」,#genre#
-HOP Sports,https://127.0.0.1:8080/youtube/JaGd4Yy_xjA.m3u8?t=1787516628&key=c8d77994fa6f65caf02519384f5bd209
+HOP Sports,https://127.0.0.1:8080/youtube/JaGd4Yy_xjA.m3u8?t=1787520143&key=a7ce204435058e681f5aca03ff701ce8
 YouTube「中國大陸」,#genre#
-CCTV 中國央視,https://127.0.0.1:8080/youtube/bEZYrBMYNNg.m3u8?t=1787516628&key=8e729a72b5470a86dd2ad515d719e423
-鳳凰衛視,https://127.0.0.1:8080/youtube/HFib76ySpbU.m3u8?t=1787516628&key=656b02a6466030228d11bafd15526d02
-鳳凰資訊,https://127.0.0.1:8080/youtube/a3WZVssKlAI.m3u8?t=1787516628&key=65ce410d9e09410b08c5c162ac54c8c7
+CCTV 中國央視,https://127.0.0.1:8080/youtube/bEZYrBMYNNg.m3u8?t=1787520143&key=1a16b3196789f9c394f9c719f11dd67a
+鳳凰衛視,https://127.0.0.1:8080/youtube/HFib76ySpbU.m3u8?t=1787520143&key=2d15f6e8954aa17088b0547b94f02b35
+鳳凰資訊,https://127.0.0.1:8080/youtube/a3WZVssKlAI.m3u8?t=1787520143&key=7485766c6902b5e5248c5006bd6cdab6
 YouTube「宗教」,#genre#
-大愛一臺,https://127.0.0.1:8080/youtube/MIqUplvSRWA.m3u8?t=1787516628&key=b34f67b128a651f359fad35fbfa18333
-大愛二臺,https://127.0.0.1:8080/youtube/DTNkEm6jaqQ.m3u8?t=1787516628&key=3e8b53dadb32c48063ef047a7f0e1a86
-大愛海外台,https://127.0.0.1:8080/youtube/MIqUplvSRWA.m3u8?t=1787516628&key=b34f67b128a651f359fad35fbfa18333
-華藏衛視,https://127.0.0.1:8080/youtube/ypmrwYeLAaQ.m3u8?t=1787516628&key=268ac392b81ad020c87f8a2b11924557
-淨空老法師,https://127.0.0.1:8080/youtube/LuomVsFAFpg.m3u8?t=1787516628&key=c0a8332d5d25607a27f13323aeca19f2
-誠心電視台,https://127.0.0.1:8080/youtube/ieHSbyOeftY.m3u8?t=1787516628&key=2c1932213cff5f62f64902f37f39da30
-信大電視台,https://127.0.0.1:8080/youtube/_f94RdVE_-A.m3u8?t=1787516628&key=439f6ebfae40ed9ee4bc7f6fb83300cf
-海豚電視台,https://127.0.0.1:8080/youtube/Na0qOCrZvgw.m3u8?t=1787516628&key=a596a72211aeee27dc57b05b92bbad05
-叫您第一名,https://127.0.0.1:8080/youtube/BUIRHO31E98.m3u8?t=1787516628&key=f799a4fb36e81f6211da091464500768
-桐瑛虎尾電視臺,https://127.0.0.1:8080/youtube/9pdoqvnssSE.m3u8?t=1787516628&key=ddd2c05e89d37349a06d5f98f5555d77
-桐瑛台南電視臺,https://127.0.0.1:8080/youtube/bJvFSrjiAQA.m3u8?t=1787516628&key=8afe8e5aa86edc2c9d6bff7f2f44ec1e
+大愛一臺,https://127.0.0.1:8080/youtube/MIqUplvSRWA.m3u8?t=1787520143&key=a3415dd87f1a1dffa8562b916556f604
+大愛二臺,https://127.0.0.1:8080/youtube/DTNkEm6jaqQ.m3u8?t=1787520143&key=97366ac66bffe3b971f12f1e23ae344b
+大愛海外台,https://127.0.0.1:8080/youtube/MIqUplvSRWA.m3u8?t=1787520143&key=a3415dd87f1a1dffa8562b916556f604
+華藏衛視,https://127.0.0.1:8080/youtube/ypmrwYeLAaQ.m3u8?t=1787520143&key=bcda784ab2c62e49672c7bebdb9fefa1
+淨空老法師,https://127.0.0.1:8080/youtube/LuomVsFAFpg.m3u8?t=1787520143&key=9402ffeb4e1b340a9541850f0be98484
+誠心電視台,https://127.0.0.1:8080/youtube/ieHSbyOeftY.m3u8?t=1787520143&key=184af8e8bc61c1d2f2babdb110954ca5
+信大電視台,https://127.0.0.1:8080/youtube/_f94RdVE_-A.m3u8?t=1787520143&key=cad194f7d5031e227ff059ab07a5cafd
+海豚電視台,https://127.0.0.1:8080/youtube/Na0qOCrZvgw.m3u8?t=1787520143&key=038028a0ccd0f862c9130f0a57b0cdc8
+叫您第一名,https://127.0.0.1:8080/youtube/BUIRHO31E98.m3u8?t=1787520143&key=8f2ef978ffc84893939785fd9124b440
+桐瑛虎尾電視臺,https://127.0.0.1:8080/youtube/9pdoqvnssSE.m3u8?t=1787520143&key=3d1698fd6c7255c9e4f0e82731903933
+桐瑛台南電視臺,https://127.0.0.1:8080/youtube/bJvFSrjiAQA.m3u8?t=1787520143&key=dda8ab2e6aaf8629adfa6429704d2470
 YouTube「購物」,#genre#
-momo購物一台,https://127.0.0.1:8080/youtube/_pZQ1Lk0xMA.m3u8?t=1787516628&key=e8f3febe02731c814db6b0a07e748881
-momo購物二台,https://127.0.0.1:8080/youtube/xbNWkUyxQGM.m3u8?t=1787516628&key=c4bec55d3feb04d2dd30a056678e7c45
-東森購物CH34,https://127.0.0.1:8080/youtube/_Vlzn9qAHD4.m3u8?t=1787516628&key=a8f207ba791f683acb7ef78ef8d0868f
-東森購物CH46,https://127.0.0.1:8080/youtube/Z50JFuNgvB0.m3u8?t=1787516628&key=d672eb08f291345b470864a77653298a
-東森購物CH47,https://127.0.0.1:8080/youtube/ViJ3XiN6Q3M.m3u8?t=1787516628&key=d67722e8f4f8b471d1da7b2e37bcde7d
-東森購物CH60,https://127.0.0.1:8080/youtube/u0NYyH3ZesE.m3u8?t=1787516628&key=87e4bb5782880c81eea57f58007304c8
-ViVa TV 美好購物1台,https://127.0.0.1:8080/youtube/7IyxOiGMLgw.m3u8?t=1787516628&key=0f68f13ec6f52f4b107735e194dc0430
-ViVa TV 美好購物2台,https://127.0.0.1:8080/youtube/lEXITHxcagI.m3u8?t=1787516628&key=24a97b49d71edb0739836d365490fc96
+momo購物一台,https://127.0.0.1:8080/youtube/_pZQ1Lk0xMA.m3u8?t=1787520143&key=f0bde1bb6fdc7bef6a5c1e4c864fc535
+momo購物二台,https://127.0.0.1:8080/youtube/xbNWkUyxQGM.m3u8?t=1787520143&key=d4ca7d9c90214547fbe619c657115bf5
+東森購物CH34,https://127.0.0.1:8080/youtube/_Vlzn9qAHD4.m3u8?t=1787520143&key=cc71b001d1bcabac42a20b4909125095
+東森購物CH46,https://127.0.0.1:8080/youtube/Z50JFuNgvB0.m3u8?t=1787520143&key=6c87f5df634f957dcd3c9d5307e71833
+東森購物CH47,https://127.0.0.1:8080/youtube/ViJ3XiN6Q3M.m3u8?t=1787520143&key=9df0f6314274b33e44cda6419d6bd24c
+東森購物CH60,https://127.0.0.1:8080/youtube/u0NYyH3ZesE.m3u8?t=1787520143&key=62cb4965e60033a86a32e69b3d1c28e5
+ViVa TV 美好購物1台,https://127.0.0.1:8080/youtube/7IyxOiGMLgw.m3u8?t=1787520143&key=c0d2e6c5330dffdb068ee2c22e709634
+ViVa TV 美好購物2台,https://127.0.0.1:8080/youtube/lEXITHxcagI.m3u8?t=1787520143&key=f50c5b9a5ed1ddcd56d04c1ed7c9afff
 YouTube「即時影像」,#genre#
-東森各地影像,https://127.0.0.1:8080/youtube/yR7h7xmFVLQ.m3u8?t=1787516628&key=029162e59bbb5a6c349a937b9b66df43
-台東即時影像: 三仙台,https://127.0.0.1:8080/youtube/dQ7Sd6PGLdA.m3u8?t=1787516628&key=3ef530c48ba12571111a44b3b4310e97
-台東即時影像: 多良車站1,https://127.0.0.1:8080/youtube/UCG1aXVO8H8.m3u8?t=1787516628&key=f669838023451df70e1b261a67bec757
-台東即時影像: 長虹橋,https://127.0.0.1:8080/youtube/JnD8Rk3o0BM.m3u8?t=1787516628&key=b13edb59bd3682974bc4753e02127752
-台東即時影像: 加路蘭遊憩區,https://127.0.0.1:8080/youtube/AKl3F6cAY2Q.m3u8?t=1787516628&key=0c503d35e2713bad374e7f54f1b81b40
-台東即時影像: 都歷遊客中心,https://127.0.0.1:8080/youtube/JhQuR77AR7U.m3u8?t=1787516628&key=0e5778242b0d3c64409e507fd3aa2554
-台東即時影像: 華源曙光觀景台,https://127.0.0.1:8080/youtube/TY4qQElcUrA.m3u8?t=1787516628&key=5b57a55c683039beb21be8f5dfe80aef
-台東即時影像: 杉原灣,https://127.0.0.1:8080/youtube/VqS_Y8ZCj6M.m3u8?t=1787516628&key=a00c23bc502bbaa9b3f35bead3557155
-台東即時影像: 石梯坪,https://127.0.0.1:8080/youtube/mXnigLvIL0Q.m3u8?t=1787516628&key=4385866f602749f7a2514258fd30051b
-台東即時影像: 石梯坪2,https://127.0.0.1:8080/youtube/keunRm78rj4.m3u8?t=1787516628&key=47ffa7a3cd978a5efcb6e97f36fc7e31
-台東即時影像: 金樽遊憩區,https://127.0.0.1:8080/youtube/ZdqHgQwvZOw.m3u8?t=1787516628&key=add97999054ce835627eb02466666511
-台東即時影像: 金樽浪點,https://127.0.0.1:8080/youtube/q3KJt-SZc2s.m3u8?t=1787516628&key=8a5c81f643c12630d25e18e0c3bf56a6
-台東即時影像: 金崙大橋,https://127.0.0.1:8080/youtube/9QqBz3kNHis.m3u8?t=1787516628&key=2f37fb1cf05b93b71f07c96843c72c4a
-台東即時影像: 大石鼻山,https://127.0.0.1:8080/youtube/JkoXcXI04Qk.m3u8?t=1787516628&key=9c9683fc36e62a184bccace3240bb39e
-台東即時影像: 富山海域,https://127.0.0.1:8080/youtube/Rsq95SQ26bY.m3u8?t=1787516628&key=b35cc3283283df58d661fa135b7c355c
-台東即時影像: 富岡漁港,https://127.0.0.1:8080/youtube/D945F_dauls.m3u8?t=1787516628&key=f5fb845a0e222267892548dcd321c091
-台東即時影像: 鹿野高台,https://127.0.0.1:8080/youtube/rvc1klNIgQc.m3u8?t=1787516628&key=0f65815c0021f4f5bc258367ec74017c
-台東即時影像: 池上天堂路,https://127.0.0.1:8080/youtube/6kUEK3LVrro.m3u8?t=1787516628&key=b8b91df04a3d4e06c6544b5b3964f1e3
-台東即時影像: 娜路彎酒店眺望台東市區,https://127.0.0.1:8080/youtube/Yo64T79w6Vg.m3u8?t=1787516628&key=91868e41494acf0aa6eec4eb0e0d62c3
-台東即時影像: 綠島帆船鼻,https://127.0.0.1:8080/youtube/pLdBc8PvZko.m3u8?t=1787516628&key=ac0633ce419af6335748e662ae15412f
-台東即時影像: 綠島南寮漁港,https://127.0.0.1:8080/youtube/wTHhv7M0vCI.m3u8?t=1787516628&key=f137dcbcc799dc4fae15a6ec210b5bc9
-台東即時影像: 綠島柴口浮潛區,https://127.0.0.1:8080/youtube/zQQSfAkjCJc.m3u8?t=1787516628&key=d86f025c4af11c0541eb642cc23c2d47
-台東即時影像: 台東航空站,https://127.0.0.1:8080/youtube/7jLL1MBcwcg.m3u8?t=1787516628&key=22bd9e9da336202ccfe81e33d9b91abb
-台東即時影像: 蘭嶼航空站,https://127.0.0.1:8080/youtube/kpVJY-3fDsU.m3u8?t=1787516628&key=0c66d302ce0252cb5526326605693390
-花蓮即時影像: 鯉魚潭,https://127.0.0.1:8080/youtube/29H5j3EsV3Q.m3u8?t=1787516628&key=4f28f46e05f44f71219c06d2e6f6e757
-花蓮即時影像: 六十石山,https://127.0.0.1:8080/youtube/DliL9uMtPrI.m3u8?t=1787516628&key=8f8dd8c52205263ad45812913dbb49d3
-花蓮即時影像: 七星潭,https://127.0.0.1:8080/youtube/j3l32VFi5M8.m3u8?t=1787516628&key=7fadfb4e3bbbeb9c16e40f8797b96cee
-花蓮即時影像: 七星潭航道下景區,https://127.0.0.1:8080/youtube/1G06HwgIVT8.m3u8?t=1787516628&key=2488f37f7bbe24844403aaf1722598c8
-花蓮即時影像: 七星潭賞星廣場,https://127.0.0.1:8080/youtube/hs0I0XbPIcg.m3u8?t=1787516628&key=813ac6d14693228e4487cb8d64e470bc
-花蓮即時影像: 赤科山,https://127.0.0.1:8080/youtube/5GTFLN9gZrc.m3u8?t=1787516628&key=0b4094fd604d876a75a98e3b6932893d
-花蓮即時影像: 忘憂亭,https://127.0.0.1:8080/youtube/Ic6hqus0tjA.m3u8?t=1787516628&key=0e56d2abf9f76aedc04fe68a16fa7569
-花蓮即時影像: 東大門夜市,https://127.0.0.1:8080/youtube/Co2w4l8Wmzk.m3u8?t=1787516628&key=87abf272d162c459c96e8a99502ae468
-花蓮即時影像: 南濱守望哨,https://127.0.0.1:8080/youtube/OQnwVN5lzsk.m3u8?t=1787516628&key=5bd9d70c6b9da084f71412e5ff85753d
-花蓮即時影像: 吉安,https://127.0.0.1:8080/youtube/JjDrTXSTJWI.m3u8?t=1787516628&key=642c753e0d109e31f32297ca6e4f3aef
-花蓮即時影像: 花蓮大橋,https://127.0.0.1:8080/youtube/BDs9UIRw4zc.m3u8?t=1787516628&key=d5eda568f3ac44426cda398ac62ec054
+東森各地影像,https://127.0.0.1:8080/youtube/yR7h7xmFVLQ.m3u8?t=1787520143&key=ad6231228d8082ac7c85e06059972a04
+台東即時影像: 三仙台,https://127.0.0.1:8080/youtube/dQ7Sd6PGLdA.m3u8?t=1787520143&key=ed956a01be6c3b57edf7ed612fe65056
+台東即時影像: 多良車站1,https://127.0.0.1:8080/youtube/UCG1aXVO8H8.m3u8?t=1787520143&key=4649c34c281a491c9cecaf615f3b3e9e
+台東即時影像: 長虹橋,https://127.0.0.1:8080/youtube/JnD8Rk3o0BM.m3u8?t=1787520143&key=8e3366911b708675040d0e6f907890e7
+台東即時影像: 加路蘭遊憩區,https://127.0.0.1:8080/youtube/AKl3F6cAY2Q.m3u8?t=1787520143&key=d4630d73465fa0556279d986cb8a47c2
+台東即時影像: 都歷遊客中心,https://127.0.0.1:8080/youtube/JhQuR77AR7U.m3u8?t=1787520143&key=2cee14de4e4649273630e30febf1da05
+台東即時影像: 華源曙光觀景台,https://127.0.0.1:8080/youtube/TY4qQElcUrA.m3u8?t=1787520143&key=d764716cd714fec70293204488c6f227
+台東即時影像: 杉原灣,https://127.0.0.1:8080/youtube/VqS_Y8ZCj6M.m3u8?t=1787520143&key=b458331dad45b08fa3fceb86bbbc00b0
+台東即時影像: 石梯坪,https://127.0.0.1:8080/youtube/mXnigLvIL0Q.m3u8?t=1787520143&key=da76fc4eeec7995a9f5ac1d9f7563dbf
+台東即時影像: 石梯坪2,https://127.0.0.1:8080/youtube/keunRm78rj4.m3u8?t=1787520143&key=ca3a10b49ff7af4ddd1b42627bf36a98
+台東即時影像: 金樽遊憩區,https://127.0.0.1:8080/youtube/ZdqHgQwvZOw.m3u8?t=1787520143&key=fcb189064eb320750f9f09a0f2692d2e
+台東即時影像: 金樽浪點,https://127.0.0.1:8080/youtube/q3KJt-SZc2s.m3u8?t=1787520143&key=139b5624f55bab394fe2e474d24573ff
+台東即時影像: 金崙大橋,https://127.0.0.1:8080/youtube/9QqBz3kNHis.m3u8?t=1787520143&key=b17239988a4124530424e2399d6e5849
+台東即時影像: 大石鼻山,https://127.0.0.1:8080/youtube/JkoXcXI04Qk.m3u8?t=1787520143&key=91ee1ad8c77be05cdb7853c912a4b2b7
+台東即時影像: 富山海域,https://127.0.0.1:8080/youtube/Rsq95SQ26bY.m3u8?t=1787520143&key=59a0414c12af1ad804f2ee10af0a5c19
+台東即時影像: 富岡漁港,https://127.0.0.1:8080/youtube/D945F_dauls.m3u8?t=1787520143&key=904aab4f968585f1bae5021c79aace4b
+台東即時影像: 鹿野高台,https://127.0.0.1:8080/youtube/rvc1klNIgQc.m3u8?t=1787520143&key=834a193e224e3c8743320c4fc27cd1f0
+台東即時影像: 池上天堂路,https://127.0.0.1:8080/youtube/6kUEK3LVrro.m3u8?t=1787520143&key=0ade779bb06382e0ef20aea3eb3c74ec
+台東即時影像: 娜路彎酒店眺望台東市區,https://127.0.0.1:8080/youtube/Yo64T79w6Vg.m3u8?t=1787520143&key=baca736dfd6a7e0e1c8e9a1dea326fab
+台東即時影像: 綠島帆船鼻,https://127.0.0.1:8080/youtube/pLdBc8PvZko.m3u8?t=1787520143&key=a56f5c9076547fbf8153bcb731524f42
+台東即時影像: 綠島南寮漁港,https://127.0.0.1:8080/youtube/wTHhv7M0vCI.m3u8?t=1787520143&key=a9766ad6ded14b534a016b9a8345a088
+台東即時影像: 綠島柴口浮潛區,https://127.0.0.1:8080/youtube/zQQSfAkjCJc.m3u8?t=1787520143&key=d6dbf799a51759b73dee4ae239df2745
+台東即時影像: 台東航空站,https://127.0.0.1:8080/youtube/7jLL1MBcwcg.m3u8?t=1787520143&key=e41913f5df9b9816d4c16cbbe91a41c4
+台東即時影像: 蘭嶼航空站,https://127.0.0.1:8080/youtube/kpVJY-3fDsU.m3u8?t=1787520143&key=6169c09b9ef4cac68234fa36741006a0
+花蓮即時影像: 鯉魚潭,https://127.0.0.1:8080/youtube/29H5j3EsV3Q.m3u8?t=1787520143&key=861a67b6195f2998c98c59ed7245ad7a
+花蓮即時影像: 六十石山,https://127.0.0.1:8080/youtube/DliL9uMtPrI.m3u8?t=1787520143&key=70f3cc4cbef79a131cd512ee82980820
+花蓮即時影像: 七星潭,https://127.0.0.1:8080/youtube/j3l32VFi5M8.m3u8?t=1787520143&key=47e5fbae240a3468694aea4aa6ba2e1f
+花蓮即時影像: 七星潭航道下景區,https://127.0.0.1:8080/youtube/1G06HwgIVT8.m3u8?t=1787520143&key=871324445fb859ba7a6d5ce938f262ab
+花蓮即時影像: 七星潭賞星廣場,https://127.0.0.1:8080/youtube/hs0I0XbPIcg.m3u8?t=1787520143&key=647ac12f1123224094aacea28d591f82
+花蓮即時影像: 赤科山,https://127.0.0.1:8080/youtube/5GTFLN9gZrc.m3u8?t=1787520143&key=5f8c4e8e7a8f3f7a0f92fc8b63506834
+花蓮即時影像: 忘憂亭,https://127.0.0.1:8080/youtube/Ic6hqus0tjA.m3u8?t=1787520143&key=20e963e200aff43e3229e1fe395504a2
+花蓮即時影像: 東大門夜市,https://127.0.0.1:8080/youtube/Co2w4l8Wmzk.m3u8?t=1787520143&key=e5edbeb53b2c3c10dbfd5e2e63a979f9
+花蓮即時影像: 南濱守望哨,https://127.0.0.1:8080/youtube/OQnwVN5lzsk.m3u8?t=1787520143&key=7b2f2f576a4de506ba6a5e295aecc795
+花蓮即時影像: 吉安,https://127.0.0.1:8080/youtube/JjDrTXSTJWI.m3u8?t=1787520143&key=b127c264ca1fad2ab0c8a9cbf343f4bd
+花蓮即時影像: 花蓮大橋,https://127.0.0.1:8080/youtube/BDs9UIRw4zc.m3u8?t=1787520143&key=984e4a850ffcaef4bfd1644fd1aef1de
 YouTube「紀錄片」,#genre#
-The Epic Story of Earth One Strange Rock S1 FULL EPISODES,https://127.0.0.1:8080/youtube/658N652S9Vg.m3u8?t=1787516628&key=b4cf62513b6ddac93ca3c706871824e6
-The Truth Behind the US Pentagon Program UFO's Investigating the Unknown S1 FULL EPISODES,https://127.0.0.1:8080/youtube/O6Qdxrf-6CM.m3u8?t=1787516628&key=df44ea23dfb657bd8a2114fc9044ad4e
-Kansas 動物園,https://127.0.0.1:8080/youtube/BSUnBPvX9K4.m3u8?t=1787516628&key=54a9863c2f528ea3a39368c6fed08aa3
-熊貓頻道,https://127.0.0.1:8080/youtube/YMOYM1YZ97o.m3u8?t=1787516628&key=eeeece73d13ac89566898e788848a08f
-非洲動物探索,https://127.0.0.1:8080/youtube/DsNtwGJXTTs.m3u8?t=1787516628&key=fb81882270cc6969275bbe4effba531e
-海洋探索,https://127.0.0.1:8080/youtube/9kMqCUu3_YY.m3u8?t=1787516628&key=f09e94254b800fd7bfb5c62def0d2257
-自然生態探索,https://127.0.0.1:8080/youtube/g_L1Ay8P244.m3u8?t=1787516628&key=f84fcd0a09205d9143a473b32a4396b9
-NASA 美國太空總署,https://127.0.0.1:8080/youtube/21X5lGlDOfg.m3u8?t=1787516628&key=c269c47f3344301c19faf84f421241cb
+The Epic Story of Earth One Strange Rock S1 FULL EPISODES,https://127.0.0.1:8080/youtube/658N652S9Vg.m3u8?t=1787520143&key=86bc15ffb35652c6c26222abd02217ea
+The Truth Behind the US Pentagon Program UFO's Investigating the Unknown S1 FULL EPISODES,https://127.0.0.1:8080/youtube/O6Qdxrf-6CM.m3u8?t=1787520143&key=583aa5204d6c7f046fb923ed5ebc2018
+Kansas 動物園,https://127.0.0.1:8080/youtube/BSUnBPvX9K4.m3u8?t=1787520143&key=a33f5793c547bfd90025808671e486e6
+熊貓頻道,https://127.0.0.1:8080/youtube/YMOYM1YZ97o.m3u8?t=1787520143&key=6e1b5debd5aa6a90b64bd165b992ac80
+非洲動物探索,https://127.0.0.1:8080/youtube/DsNtwGJXTTs.m3u8?t=1787520143&key=257916e7c99e538c4d01aa1109b7b642
+海洋探索,https://127.0.0.1:8080/youtube/9kMqCUu3_YY.m3u8?t=1787520143&key=60d76d15777a9715e1f20cc4a1ddfee2
+自然生態探索,https://127.0.0.1:8080/youtube/g_L1Ay8P244.m3u8?t=1787520143&key=469760ce8d293430a9fe106fd8b6d02d
+NASA 美國太空總署,https://127.0.0.1:8080/youtube/21X5lGlDOfg.m3u8?t=1787520143&key=22a5827312744bafcb66666497e7b530
 YouTube「其他」,#genre#
-台視主頻,https://127.0.0.1:8080/youtube/uDqQo8a7Xmk.m3u8?t=1787516628&key=4554a2317c0d374e5ad88c72178e3d4b
-中天亞洲,https://127.0.0.1:8080/youtube/s2waUruqze4.m3u8?t=1787516628&key=6a46e4692b0823d60dd98ae24715c705
-新唐人亞太台,https://127.0.0.1:8080/youtube/WIhgU_mc05A.m3u8?t=1787516628&key=320820bed2ce0d564fba5e6ff0bbfcdd
-緯來日本台,https://127.0.0.1:8080/youtube/_zKvIMHN2O8.m3u8?t=1787516628&key=24b8c719b3e73402d8f7a30a7aaaee43
-地震監視,https://127.0.0.1:8080/youtube/Owke6Quk7T0.m3u8?t=1787516628&key=7189666a842b018449c6b5e8f19f1df9
+台視主頻,https://127.0.0.1:8080/youtube/uDqQo8a7Xmk.m3u8?t=1787520143&key=3e522e8403396f237de3ef16084f3537
+中天亞洲,https://127.0.0.1:8080/youtube/s2waUruqze4.m3u8?t=1787520143&key=a9dc982ed3722b501d109ca63fe440d7
+新唐人亞太台,https://127.0.0.1:8080/youtube/WIhgU_mc05A.m3u8?t=1787520143&key=adb9f447ff2022350df775c39ccf7007
+緯來日本台,https://127.0.0.1:8080/youtube/_zKvIMHN2O8.m3u8?t=1787520143&key=59f8989fb2bf1ba338270b5c6495df2b
+地震監視,https://127.0.0.1:8080/youtube/Owke6Quk7T0.m3u8?t=1787520143&key=97a50ee5fbe43c69d3761c0c78424c21
 YouTube「代理」,#genre#
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -2759,13 +2759,13 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 上视外语,http://116.226.38.242:4022/udp/239.45.1.127:5140$上海电信组播
 东方影视,http://116.226.38.242:4022/udp/239.45.3.237:5140$上海电信组播
 欢笑剧场,http://116.226.38.242:4022/udp/239.45.3.196:5140$上海电信组播
-东方卫视,https://127.0.0.1:8080/kankanews/dfws.m3u8?t=1787516628&key=0a6c1fb58823c255bb8e1baae9331427
-上海新闻综合,https://127.0.0.1:8080/kankanews/shxwzh.m3u8?t=1787516628&key=71ad64da82e7059b06caed84cb00ad41
-上海外语,https://127.0.0.1:8080/kankanews/shics.m3u8?t=1787516628&key=595ed406f09f33dddb89742446cc85f8
-上海都市,https://127.0.0.1:8080/kankanews/shds.m3u8?t=1787516628&key=20c1b9918ce179c0cce51df4c4b66824
-第一财经,https://127.0.0.1:8080/kankanews/dycj.m3u8?t=1787516628&key=9e15faef8bb6f4298b4d9787fc0cfdb2
-上海纪实人文,https://127.0.0.1:8080/kankanews/jsrw.m3u8?t=1787516628&key=649d629283bd3176a3944a6adac71a40
-哈哈炫动,https://127.0.0.1:8080/kankanews/hhxd.m3u8?t=1787516628&key=0a1a2b742546d7eab56d06c2714e2e64
+东方卫视,https://127.0.0.1:8080/kankanews/dfws.m3u8?t=1787520143&key=e18e3f5be27e4aeacea6bf4a14d48481
+上海新闻综合,https://127.0.0.1:8080/kankanews/shxwzh.m3u8?t=1787520143&key=31c00af89c9039dccce0f9de77868c28
+上海外语,https://127.0.0.1:8080/kankanews/shics.m3u8?t=1787520143&key=36dcf0765fb8c630c8a89cc31764f00b
+上海都市,https://127.0.0.1:8080/kankanews/shds.m3u8?t=1787520143&key=0e03c0e4b3c21cac33178bc0658d457d
+第一财经,https://127.0.0.1:8080/kankanews/dycj.m3u8?t=1787520143&key=3cc3bdbfd44af88528a7714fcddd225d
+上海纪实人文,https://127.0.0.1:8080/kankanews/jsrw.m3u8?t=1787520143&key=0cb8347503fc98a3997ddb8563801127
+哈哈炫动,https://127.0.0.1:8080/kankanews/hhxd.m3u8?t=1787520143&key=bb8ba3211b003cc557db0998321b971f
 广东,#genre#
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
@@ -2780,29 +2780,29 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 佛山顺德,http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
 佛山高明,http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
 佛山三水,http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
-广州综合,https://127.0.0.1:8080/gztv/zhonghe.m3u8?t=1787516628&key=147e81cd35199862801798b0c39efb14
-广州新闻,https://127.0.0.1:8080/gztv/xinwen.m3u8?t=1787516628&key=fc2c31d16df21c948a7f2f40c0c80edf
-广州竞赛,https://127.0.0.1:8080/gztv/jingsai.m3u8?t=1787516628&key=9ea39d3d6975b15ad0e7bf414d8cc4b8
-广州影视,https://127.0.0.1:8080/gztv/yingshi.m3u8?t=1787516628&key=29ac6387c4e9458b454b63788b1d2a73
-广州法治,https://127.0.0.1:8080/gztv/fazhi.m3u8?t=1787516628&key=9230a6bd5fbf0061729e465a97525b02
-广州南国都市,https://127.0.0.1:8080/gztv/shenghuo.m3u8?t=1787516628&key=8e71dd86d5e4c8808b7ca0f7005c9790
-佛山综合,https://127.0.0.1:8080/fstv/fszh.m3u8?t=1787516628&key=8176871e528872d3fbb24fa3cc73e98b
-佛山影视,https://127.0.0.1:8080/fstv/fsys.m3u8?t=1787516628&key=260a7d7e3df5187c18a46f35de055228
-佛山公共,https://127.0.0.1:8080/fstv/fsgg.m3u8?t=1787516628&key=f5f077184a7e1ed623b955af31b5f3be
-佛山南海,https://127.0.0.1:8080/fstv/fsnh.m3u8?t=1787516628&key=0365ffad6bd29c5fe13f4e6bb10d7b9a
-佛山顺德,https://127.0.0.1:8080/fstv/fssd.m3u8?t=1787516628&key=6da8879addcd04e40ba411e62d968069
-佛山高明,https://127.0.0.1:8080/fstv/fsgm.m3u8?t=1787516628&key=1f29e4321a82a266c13d6497f24b52d8
-佛山三水,https://127.0.0.1:8080/fstv/fsss.m3u8?t=1787516628&key=c03e9c86e737b91b396f36bb0ce28b27
-深圳卫视,https://127.0.0.1:8080/sztv/szws.m3u8?t=1787516628&key=934c2b5506e8255fc50fb198b1276122
-深圳娱乐,https://127.0.0.1:8080/sztv/szyl.m3u8?t=1787516628&key=9ecb9e0b6679bebf666ff8fc152bc4f6
-深圳少儿,https://127.0.0.1:8080/sztv/szse.m3u8?t=1787516628&key=bc6e06a4f06b5dee27a730742fb92385
-深圳公共,https://127.0.0.1:8080/sztv/szgg.m3u8?t=1787516628&key=e8511977cd5814980545e772ac44366e
-深圳财经生活,https://127.0.0.1:8080/sztv/szcjsh.m3u8?t=1787516628&key=a49804263a6cb4cfc6a19bd45c73e8ea
-深圳电视剧,https://127.0.0.1:8080/sztv/szdsj.m3u8?t=1787516628&key=81b29979028fc61561d7384abab135ef
-宜和购物,https://127.0.0.1:8080/sztv/yhgw.m3u8?t=1787516628&key=20b7f90afdb90aa55cb9eaefe8d7ad82
-深圳都市,https://127.0.0.1:8080/sztv/szds.m3u8?t=1787516628&key=4bcdb3e15f354a652d367976140b6cbe
-深圳国际,https://127.0.0.1:8080/sztv/szgj.m3u8?t=1787516628&key=af7fa15cc14b6e4be1d0c61732ba7ef7
-深圳移动,https://127.0.0.1:8080/sztv/szyd.m3u8?t=1787516628&key=d8c4800bcb2926f43624f6855cd3998f
+广州综合,https://127.0.0.1:8080/gztv/zhonghe.m3u8?t=1787520143&key=2b42456a281f576a3929164e1ab58860
+广州新闻,https://127.0.0.1:8080/gztv/xinwen.m3u8?t=1787520143&key=e94bb06bd69b35a914e834ae6fc68dcb
+广州竞赛,https://127.0.0.1:8080/gztv/jingsai.m3u8?t=1787520143&key=5fd484cc48e2a8939c322b0ab5f140ac
+广州影视,https://127.0.0.1:8080/gztv/yingshi.m3u8?t=1787520143&key=e7e313f9bcdc65a2ad4a2882491612d9
+广州法治,https://127.0.0.1:8080/gztv/fazhi.m3u8?t=1787520143&key=9356715afeac1caf301468984083ab05
+广州南国都市,https://127.0.0.1:8080/gztv/shenghuo.m3u8?t=1787520143&key=648ecbb7311ffe14d4c483bcd80410a6
+佛山综合,https://127.0.0.1:8080/fstv/fszh.m3u8?t=1787520143&key=db73dafa75ca44fd413ae26218c94ea2
+佛山影视,https://127.0.0.1:8080/fstv/fsys.m3u8?t=1787520143&key=6b14044928aaafc887b6ae978dbae012
+佛山公共,https://127.0.0.1:8080/fstv/fsgg.m3u8?t=1787520143&key=6b57419b2f7fac3823ce064225d293ae
+佛山南海,https://127.0.0.1:8080/fstv/fsnh.m3u8?t=1787520143&key=4fc62559d364db37fb39cad3cb3d7448
+佛山顺德,https://127.0.0.1:8080/fstv/fssd.m3u8?t=1787520143&key=5c1f8718bd6ddd82a40c14ca99162529
+佛山高明,https://127.0.0.1:8080/fstv/fsgm.m3u8?t=1787520143&key=0e235d8680664baf94a48472949237e6
+佛山三水,https://127.0.0.1:8080/fstv/fsss.m3u8?t=1787520143&key=39bd9a08115b2b16f360f68d9222590a
+深圳卫视,https://127.0.0.1:8080/sztv/szws.m3u8?t=1787520143&key=b5014eea6f62241eb64ba283ef245f6d
+深圳娱乐,https://127.0.0.1:8080/sztv/szyl.m3u8?t=1787520143&key=582e25921499812d51fa90a346d9d3b2
+深圳少儿,https://127.0.0.1:8080/sztv/szse.m3u8?t=1787520143&key=300a99675557c3d205d41853ddd0a85e
+深圳公共,https://127.0.0.1:8080/sztv/szgg.m3u8?t=1787520143&key=eb2ad4c8d56769600a3efa70f55f8cfe
+深圳财经生活,https://127.0.0.1:8080/sztv/szcjsh.m3u8?t=1787520143&key=e318e5ef21c24cb8f54f4cffe68e4483
+深圳电视剧,https://127.0.0.1:8080/sztv/szdsj.m3u8?t=1787520143&key=38b3d2ceda04f04f9ead0baeb6238897
+宜和购物,https://127.0.0.1:8080/sztv/yhgw.m3u8?t=1787520143&key=49dc6f4446142e7aa04f6a2d7755b1e5
+深圳都市,https://127.0.0.1:8080/sztv/szds.m3u8?t=1787520143&key=6c597caf106f293507388540ca6d529b
+深圳国际,https://127.0.0.1:8080/sztv/szgj.m3u8?t=1787520143&key=c49a011bb87e847354ff9b865c6868fe
+深圳移动,https://127.0.0.1:8080/sztv/szyd.m3u8?t=1787520143&key=a3ec5912d40b8f2479dd72de7898d1cf
 浙江,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -2893,16 +2893,16 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 江苏教育,http://litchi-play-encrypted-site.jstv.com/live/jsjy_live.m3u8?txSecret=53a036f85e9d6d24f49f90aa7ec57824&txTime=968075ef
 江苏国际,http://litchi-play-encrypted-site.jstv.com/live/jsgj_live.m3u8?txSecret=688ca6f6effdc028d3b47f0fa5443146&txTime=968075ef
 优漫卡通,http://litchi-play-encrypted-site.jstv.com/live/ymkt_live.m3u8?txSecret=80350cef68569ae2c1947f73a0c1203b&txTime=968075ef
-江苏卫视,https://127.0.0.1:8080/jstv/jsws.m3u8?t=1787516628&key=6251363bbc618770eccc942d0892f375
-江苏城市,https://127.0.0.1:8080/jstv/jscs.m3u8?t=1787516628&key=093559b1efa6b09653de259a2edb637b
-江苏新闻,https://127.0.0.1:8080/jstv/jsgg.m3u8?t=1787516628&key=4cfb84210192d70cdcba2d7ee48e9b91
-江苏综艺,https://127.0.0.1:8080/jstv/jszy.m3u8?t=1787516628&key=df9a27f812378b46ac74d7753c752296
-江苏影视,https://127.0.0.1:8080/jstv/jsys.m3u8?t=1787516628&key=c6d3edc734132e765145f5de791d2e0f
-江苏体育,https://127.0.0.1:8080/jstv/jsty.m3u8?t=1787516628&key=cf3b6eb9dcdb71e9062a3477cf0f700a
-江苏教育,https://127.0.0.1:8080/jstv/jsjy.m3u8?t=1787516628&key=b039a5522cc66ffacfbbe1fa7625d1a7
-江苏国际,https://127.0.0.1:8080/jstv/jsgj.m3u8?t=1787516628&key=1b6e148a764a344687d88bc4fd9a633c
-好享购物,https://127.0.0.1:8080/jstv/hxgw.m3u8?t=1787516628&key=653d92f25c8afdeb739de9e52c9cec5a
-优漫卡通,https://127.0.0.1:8080/jstv/ymkt.m3u8?t=1787516628&key=16d0dfe5c806b7de0ac93396d0692ae3
+江苏卫视,https://127.0.0.1:8080/jstv/jsws.m3u8?t=1787520143&key=95afb62a9e93a33f8d7a40163a8bdb0e
+江苏城市,https://127.0.0.1:8080/jstv/jscs.m3u8?t=1787520143&key=ddc18e0dc4821ad8fafbb48e20917067
+江苏新闻,https://127.0.0.1:8080/jstv/jsgg.m3u8?t=1787520143&key=b26f56f46eb5e920ec4e127ad35180d8
+江苏综艺,https://127.0.0.1:8080/jstv/jszy.m3u8?t=1787520143&key=2845bb38a8143bf55bc6dc6245401a30
+江苏影视,https://127.0.0.1:8080/jstv/jsys.m3u8?t=1787520143&key=c80acdb17bbc721bbec1085032764f76
+江苏体育,https://127.0.0.1:8080/jstv/jsty.m3u8?t=1787520143&key=e53b53c52e181d3dc61a8bca8a17860c
+江苏教育,https://127.0.0.1:8080/jstv/jsjy.m3u8?t=1787520143&key=e5f332ea2b96ac8c7af1085f6b988657
+江苏国际,https://127.0.0.1:8080/jstv/jsgj.m3u8?t=1787520143&key=67ee1022de03fee56497a1771572ec26
+好享购物,https://127.0.0.1:8080/jstv/hxgw.m3u8?t=1787520143&key=b51a34a291c565df762758bc494bf337
+优漫卡通,https://127.0.0.1:8080/jstv/ymkt.m3u8?t=1787520143&key=d8f8fb8e0c1acb6a00870a11ed4b0066
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
@@ -2985,14 +2985,14 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 长沙政法,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn15.m3u8
 长沙女性,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn16.m3u8
 安徽,#genre#
-安徽卫视,https://127.0.0.1:8080/ahtv/ahws.m3u8?t=1787516628&key=d64f787eef5052192ebb382cf12bdbce
-安徽经济生活,https://127.0.0.1:8080/ahtv/ahjjsh.m3u8?t=1787516628&key=c8a32e1b209851290d77262e46b5c506
-安徽综艺体育,https://127.0.0.1:8080/ahtv/ahzyty.m3u8?t=1787516628&key=046fecb62fcb53f4abe7d3fe52001581
-安徽影视,https://127.0.0.1:8080/ahtv/ahys.m3u8?t=1787516628&key=1e8b591cad8b20483a3c56a1385d8f97
-安徽公共,https://127.0.0.1:8080/ahtv/ahgg.m3u8?t=1787516628&key=cfc0e8fcccc794b557b2f2348e56baf2
-安徽农业科教,https://127.0.0.1:8080/ahtv/ahnykj.m3u8?t=1787516628&key=d560012ca49118729b8041931dddcc76
-安徽国际,https://127.0.0.1:8080/ahtv/ahgj.m3u8?t=1787516628&key=efe243fef7f77871f9c705a5aa2645c1
-安徽移动,https://127.0.0.1:8080/ahtv/ahyd.m3u8?t=1787516628&key=ddee15cc05e0c537a036018f0fdad75b
+安徽卫视,https://127.0.0.1:8080/ahtv/ahws.m3u8?t=1787520143&key=4fab5782ace4f8ce4dc679ca4257aa5f
+安徽经济生活,https://127.0.0.1:8080/ahtv/ahjjsh.m3u8?t=1787520143&key=3fa00d6304b359f516f4c13132eb5021
+安徽综艺体育,https://127.0.0.1:8080/ahtv/ahzyty.m3u8?t=1787520143&key=c5d43925ab956606e8e060d4e25f42c6
+安徽影视,https://127.0.0.1:8080/ahtv/ahys.m3u8?t=1787520143&key=e668ec206215288559b5142ac294e7a4
+安徽公共,https://127.0.0.1:8080/ahtv/ahgg.m3u8?t=1787520143&key=e86cbd1680bbc425d98f4e61447cccf3
+安徽农业科教,https://127.0.0.1:8080/ahtv/ahnykj.m3u8?t=1787520143&key=7e613ab3b38ed8a7bfb67db071fc4fd9
+安徽国际,https://127.0.0.1:8080/ahtv/ahgj.m3u8?t=1787520143&key=d895f934b2149b4ad6c9ba1bab40b4b9
+安徽移动,https://127.0.0.1:8080/ahtv/ahyd.m3u8?t=1787520143&key=f10973686d4c377fc3496ac7250f649d
 安徽公共频道,http://live.ahcartv.dev.geek-zoo.cn/live/ggtv.m3u8?txSecret=642c057a63f8e7c6fcd0f236d3f24c69&txTime=6861F1F6
 安徽国际频道,http://live.ahcartv.dev.geek-zoo.cn/live/gjtv.m3u8?txSecret=e628bcb47d7741b3a60c6793b7295d84&txTime=6861F1F6
 安徽经济生活频道,http://live.ahcartv.dev.geek-zoo.cn/live/jjshtv.m3u8?txSecret=94e99c3721b25b3ac3d04be07d92fa3c&txTime=6861F1F6
@@ -3102,23 +3102,23 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 分宜TV,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 井冈山1套,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 河南,#genre#
-河南卫视,https://127.0.0.1:8080/hntv/hnws.m3u8?t=1787516628&key=01b4d56b0754495ab0d2b8962493cd47
-河南都市,https://127.0.0.1:8080/hntv/hnds.m3u8?t=1787516628&key=1eab9eba6e7e29050f6dee8601662bdd
-河南民生,https://127.0.0.1:8080/hntv/hnms.m3u8?t=1787516628&key=0cfb8cd9c1cc21912f92d1bfe17125f3
-河南法治,https://127.0.0.1:8080/hntv/hmfz.m3u8?t=1787516628&key=fb98b20ebaac2aa7377ba769380cdd97
-河南电视剧,https://127.0.0.1:8080/hntv/hndsj.m3u8?t=1787516628&key=794c761a3f7583dca44affdccea55b23
-河南新闻,https://127.0.0.1:8080/hntv/hnxw.m3u8?t=1787516628&key=528da384fe9155e25fd240dff9784877
-欢腾购物,https://127.0.0.1:8080/hntv/htgw.m3u8?t=1787516628&key=a2069b0cd9c4c58f850127f248320fd5
-河南公共,https://127.0.0.1:8080/hntv/hngg.m3u8?t=1787516628&key=935f2fb16328bc9e0a49fe38f73af12a
-河南乡村,https://127.0.0.1:8080/hntv/hnxc.m3u8?t=1787516628&key=088a47b1f44b792f825b540e1f646900
-河南国际,https://127.0.0.1:8080/hntv/hngj.m3u8?t=1787516628&key=828143102390afa5afb59462ad4122f7
-河南梨园,https://127.0.0.1:8080/hntv/hnly.m3u8?t=1787516628&key=b08db372099ce5cc26797da13266966e
-文物宝库,https://127.0.0.1:8080/hntv/wwbk.m3u8?t=1787516628&key=9b8d5a821f9f46e9a63f9460a01612b4
-武术世界,https://127.0.0.1:8080/hntv/wspd.m3u8?t=1787516628&key=b7e24e288b614ddf7a5da147362a3699
-睛彩中原,https://127.0.0.1:8080/hntv/jczy.m3u8?t=1787516628&key=24417763d76f67265c4924b8b0844c0c
-移动戏曲,https://127.0.0.1:8080/hntv/ydxj.m3u8?t=1787516628&key=91f1552ca9d84021251f05797be6327e
-象视界,https://127.0.0.1:8080/hntv/xsj.m3u8?t=1787516628&key=c238548b1b549f5640fa6805d7fa9ad0
-国学频道,https://127.0.0.1:8080/hntv/gxpd.m3u8?t=1787516628&key=b2f11497735e3953d9e6525978ca254c
+河南卫视,https://127.0.0.1:8080/hntv/hnws.m3u8?t=1787520143&key=0aed5ece2826c82d3016bc2546d808ea
+河南都市,https://127.0.0.1:8080/hntv/hnds.m3u8?t=1787520143&key=235b6686aae0263338bad079b70e1116
+河南民生,https://127.0.0.1:8080/hntv/hnms.m3u8?t=1787520143&key=f486ab2a4d362e66847e861702e0c39f
+河南法治,https://127.0.0.1:8080/hntv/hmfz.m3u8?t=1787520143&key=e31e7a954b5f06395aceb2d6ba6deb03
+河南电视剧,https://127.0.0.1:8080/hntv/hndsj.m3u8?t=1787520143&key=d4c3fb102ab79259e7ad857d37a3578e
+河南新闻,https://127.0.0.1:8080/hntv/hnxw.m3u8?t=1787520143&key=4762d0d7ec2e8733195a307052d139c4
+欢腾购物,https://127.0.0.1:8080/hntv/htgw.m3u8?t=1787520143&key=aa1b3eb8ab2eade645b46308e2cbc81d
+河南公共,https://127.0.0.1:8080/hntv/hngg.m3u8?t=1787520143&key=da8c4e192337a03359ec4697cc60bb9e
+河南乡村,https://127.0.0.1:8080/hntv/hnxc.m3u8?t=1787520143&key=90c36bc2379824398aacf47cb72985f8
+河南国际,https://127.0.0.1:8080/hntv/hngj.m3u8?t=1787520143&key=de709fa65d673627d450b187543e60c6
+河南梨园,https://127.0.0.1:8080/hntv/hnly.m3u8?t=1787520143&key=89e1db4c85520966b915af49590f6a4e
+文物宝库,https://127.0.0.1:8080/hntv/wwbk.m3u8?t=1787520143&key=bc04f22e63dc5e62939980c0339f6c25
+武术世界,https://127.0.0.1:8080/hntv/wspd.m3u8?t=1787520143&key=6a43c755174559f623819798cb9930f3
+睛彩中原,https://127.0.0.1:8080/hntv/jczy.m3u8?t=1787520143&key=a221ec546deea705683329932e21a5cb
+移动戏曲,https://127.0.0.1:8080/hntv/ydxj.m3u8?t=1787520143&key=dd9bfdb094ebc183dd50d422e431bf90
+象视界,https://127.0.0.1:8080/hntv/xsj.m3u8?t=1787520143&key=96a71bd57c7ce5451f25eeb69d9d8472
+国学频道,https://127.0.0.1:8080/hntv/gxpd.m3u8?t=1787520143&key=e971f068f81ec9c18a8c564adc7b8436
 郑州新闻综合,http://live3-new.zztv.tv/xwzh/playlist.m3u8
 郑州商都,http://live3-new.zztv.tv/sdpd/playlist.m3u8
 郑州文体旅游,http://live3-new.zztv.tv/wtly/playlist.m3u8
@@ -3133,21 +3133,21 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 河北影视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1963555862&k=c1c7d65caa03f1cbd6c9585b5d840534
 河北少儿,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1963555882&k=3b5e2390e33ef21bf9697e4d1811e261
 河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1963555917&k=fc9fcfabd123ab877e24ee9a0ef0c862
-河北卫视,https://127.0.0.1:8080/hebtv/hbws.m3u8?t=1787516628&key=8b672b35472d05aa3391e5744906900e
-河北经济,https://127.0.0.1:8080/hebtv/hbjj.m3u8?t=1787516628&key=495b8c2532a5f621034f611fd727c66a
-河北农民,https://127.0.0.1:8080/hebtv/hbnm.m3u8?t=1787516628&key=c6776f0ca2f380e9e2bcb65bb1f67f8f
-河北都市,https://127.0.0.1:8080/hebtv/hbds.m3u8?t=1787516628&key=42b91f8aea424de7f768e5518be14656
-河北影视,https://127.0.0.1:8080/hebtv/hbys.m3u8?t=1787516628&key=b26c79b546cf685e1a3e2ab231b35d14
-少儿科教,https://127.0.0.1:8080/hebtv/hbsekj.m3u8?t=1787516628&key=6bae3fc2eab57bf85525ac2d595d7906
-河北公共,https://127.0.0.1:8080/hebtv/hbgg.m3u8?t=1787516628&key=f457e7061bd8d564ffff3f289a87c923
-三佳购物,https://127.0.0.1:8080/hebtv/hbsjgw.m3u8?t=1787516628&key=687fd480b02741720518a671e1ad144c
+河北卫视,https://127.0.0.1:8080/hebtv/hbws.m3u8?t=1787520143&key=c07e057a90e264d873416e162c198521
+河北经济,https://127.0.0.1:8080/hebtv/hbjj.m3u8?t=1787520143&key=e363406e859fcf41a62e0b31b1ff517a
+河北农民,https://127.0.0.1:8080/hebtv/hbnm.m3u8?t=1787520143&key=f84fa926d2fcffec6cf4fbce3a181c3c
+河北都市,https://127.0.0.1:8080/hebtv/hbds.m3u8?t=1787520143&key=f61a0df3e37a46319332d0d821ed6f24
+河北影视,https://127.0.0.1:8080/hebtv/hbys.m3u8?t=1787520143&key=f6e88623e575168087bf4910941a91cb
+少儿科教,https://127.0.0.1:8080/hebtv/hbsekj.m3u8?t=1787520143&key=b346dbd7290118fc84d10055c3ab8015
+河北公共,https://127.0.0.1:8080/hebtv/hbgg.m3u8?t=1787520143&key=0bcc7b3d3a7bf9a4dcbe92eb25cf0eb8
+三佳购物,https://127.0.0.1:8080/hebtv/hbsjgw.m3u8?t=1787520143&key=091c3da3e55ebb50a3e3183d93471427
 云南,#genre#
-云南卫视,https://127.0.0.1:8080/yntv/ynws.m3u8?t=1787516628&key=53226e926b3ef46faf9a9d5c342720c3
-云南都市,https://127.0.0.1:8080/yntv/ynds.m3u8?t=1787516628&key=691c7cf8478c317b169b5d48d5b45ac4
-云南娱乐,https://127.0.0.1:8080/yntv/ynyl.m3u8?t=1787516628&key=cdd87ce4bef345d9e46ae27f7409f723
-康旅频道,https://127.0.0.1:8080/yntv/ynkl.m3u8?t=1787516628&key=84871f4beec58a322788458ed0b0b549
-澜湄国际,https://127.0.0.1:8080/yntv/yngj.m3u8?t=1787516628&key=8fe97c46ab556cfdda04bfca666e1676
-云南少儿,https://127.0.0.1:8080/yntv/ynse.m3u8?t=1787516628&key=b7f85b96638f5c37b557c4748d466898
+云南卫视,https://127.0.0.1:8080/yntv/ynws.m3u8?t=1787520143&key=5a9e1fa7257e4374eecb3f43e63f6f09
+云南都市,https://127.0.0.1:8080/yntv/ynds.m3u8?t=1787520143&key=fc3c604ae76ec6d19492a8eb70bd5b96
+云南娱乐,https://127.0.0.1:8080/yntv/ynyl.m3u8?t=1787520143&key=3d6f5f241a2e113d621184ba3a8df5b0
+康旅频道,https://127.0.0.1:8080/yntv/ynkl.m3u8?t=1787520143&key=13cc228807d2af5c3a868b0193508ba3
+澜湄国际,https://127.0.0.1:8080/yntv/yngj.m3u8?t=1787520143&key=9ca274a73e26a3af37ca341b2c94d5d6
+云南少儿,https://127.0.0.1:8080/yntv/ynse.m3u8?t=1787520143&key=cde884bf8a4ef9ccf17c6ce532f02e8e
 贵州,#genre#
 贵州卫视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
 贵州公共,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
@@ -3158,20 +3158,20 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 贵州经济,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
 贵州移动电视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 贵州家有购物,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CHJY_lo.m3u8
-贵州卫视,https://127.0.0.1:8080/gzstv/gzws.m3u8?t=1787516628&key=f1c847492fde78a80b2cbc03ebfc0526
-贵州公共,https://127.0.0.1:8080/gzstv/gzgg.m3u8?t=1787516628&key=be1b645786431f33c69d53d7655d6e39
-贵州影视,https://127.0.0.1:8080/gzstv/gzwy.m3u8?t=1787516628&key=8a461c9df53c12efba84da985074f01f
-贵州生活,https://127.0.0.1:8080/gzstv/gzsh.m3u8?t=1787516628&key=d878be5162b8d74a65a86f23d61b8742
-贵州法制,https://127.0.0.1:8080/gzstv/gzfz.m3u8?t=1787516628&key=3da7e8b66581e8427c9da311d4c38a74
-贵州科教,https://127.0.0.1:8080/gzstv/gzkj.m3u8?t=1787516628&key=0d6a4520d17cff41ebc0a835a77d1b2a
-贵州经济,https://127.0.0.1:8080/gzstv/gzjj.m3u8?t=1787516628&key=521b313f95624cc1060188492db49258
-贵州家有购物,https://127.0.0.1:8080/gzstv/gzjygw.m3u8?t=1787516628&key=4b89d8a18186c51a2451f7b775525fda
-贵州移动,https://127.0.0.1:8080/gzstv/gzyd.m3u8?t=1787516628&key=423cb20be79a3ab33e9cc19c601a1c2c
-贵州综合广播,https://127.0.0.1:8080/gzstv/fm946.m3u8?t=1787516628&key=24cb4f0b3e4f0811760f81b5731d3062
-贵州经济广播,https://127.0.0.1:8080/gzstv/fm989.m3u8?t=1787516628&key=65487324fd97a663e38ca8a3d2c6a98e
-贵州音乐广播,https://127.0.0.1:8080/gzstv/fm916.m3u8?t=1787516628&key=32b2742e845163a633463612c704ce26
-贵州交通广播,https://127.0.0.1:8080/gzstv/fm952.m3u8?t=1787516628&key=d2fa1c25e2f530b39c90a141d065ea4e
-贵州旅游广播,https://127.0.0.1:8080/gzstv/fm972.m3u8?t=1787516628&key=0a063f55d42886d04ad0e06a7416ac18
+贵州卫视,https://127.0.0.1:8080/gzstv/gzws.m3u8?t=1787520143&key=bbd1d3bd56023f27a2e282c090025fd7
+贵州公共,https://127.0.0.1:8080/gzstv/gzgg.m3u8?t=1787520143&key=5880e3c0b64782da02e7dfd03c2727b5
+贵州影视,https://127.0.0.1:8080/gzstv/gzwy.m3u8?t=1787520143&key=649aa26161243c266764e04f8f451b02
+贵州生活,https://127.0.0.1:8080/gzstv/gzsh.m3u8?t=1787520143&key=87564e5b1133bd2f5d053f41cfbd5ebe
+贵州法制,https://127.0.0.1:8080/gzstv/gzfz.m3u8?t=1787520143&key=d87bc177f3da6cb6fdec24317340bc81
+贵州科教,https://127.0.0.1:8080/gzstv/gzkj.m3u8?t=1787520143&key=e50471cc68fe920ee7298236a5ffdfaa
+贵州经济,https://127.0.0.1:8080/gzstv/gzjj.m3u8?t=1787520143&key=2937271397b8f74b8384fcbc197450b8
+贵州家有购物,https://127.0.0.1:8080/gzstv/gzjygw.m3u8?t=1787520143&key=56d60bea280e0b6a86de16f66fc2a632
+贵州移动,https://127.0.0.1:8080/gzstv/gzyd.m3u8?t=1787520143&key=f2ee0f5de5a668a4a19101c95a8f0b1b
+贵州综合广播,https://127.0.0.1:8080/gzstv/fm946.m3u8?t=1787520143&key=66035da99e442262dcb1ac45bb63b71b
+贵州经济广播,https://127.0.0.1:8080/gzstv/fm989.m3u8?t=1787520143&key=3cce4ba42e98e0788e0733802d8bd62e
+贵州音乐广播,https://127.0.0.1:8080/gzstv/fm916.m3u8?t=1787520143&key=15102f7d1bdd40865079555ce404403f
+贵州交通广播,https://127.0.0.1:8080/gzstv/fm952.m3u8?t=1787520143&key=8372c81cf6ed4975ddad8431314b6b63
+贵州旅游广播,https://127.0.0.1:8080/gzstv/fm972.m3u8?t=1787520143&key=f66a3d68f8a25dd4c3fe47537b5de9e5
 山西,#genre#
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
@@ -3179,12 +3179,12 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-山西卫视,https://127.0.0.1:8080/sxrtv/sxws.m3u8?t=1787516628&key=9ededa2e7679a8dbdd09774a02859518
-山西经济,https://127.0.0.1:8080/sxrtv/sxjj.m3u8?t=1787516628&key=f3ce32eda3ed3a71b70cb1f24c5b49fd
-山西社会与法治,https://127.0.0.1:8080/sxrtv/sxshfz.m3u8?t=1787516628&key=84714027cd6385c6467c3279d400ed9b
-山西文体生活,https://127.0.0.1:8080/sxrtv/sxwtsh.m3u8?t=1787516628&key=a274f17d82f0843b1cc4583f6865f146
-山西影视,https://127.0.0.1:8080/sxrtv/sxys.m3u8?t=1787516628&key=2b23459131bd0b0fd6f6992aac4340ed
-山西黄河,https://127.0.0.1:8080/sxrtv/sxhh.m3u8?t=1787516628&key=5703ec5ee1c107a836a47373babd278f
+山西卫视,https://127.0.0.1:8080/sxrtv/sxws.m3u8?t=1787520143&key=adc9285580b3ea38956d30d1500daad9
+山西经济,https://127.0.0.1:8080/sxrtv/sxjj.m3u8?t=1787520143&key=4ed297ae16f401ce19e49ae2bd335ec7
+山西社会与法治,https://127.0.0.1:8080/sxrtv/sxshfz.m3u8?t=1787520143&key=ac0ec891659f1961c9a8b4bc795ffc96
+山西文体生活,https://127.0.0.1:8080/sxrtv/sxwtsh.m3u8?t=1787520143&key=27251d73c58e6a7fe037c18a15114441
+山西影视,https://127.0.0.1:8080/sxrtv/sxys.m3u8?t=1787520143&key=63d59858b75f836268e02708560b67a2
+山西黄河,https://127.0.0.1:8080/sxrtv/sxhh.m3u8?t=1787520143&key=695e1e63100bedbf175a27e8ba2bce57
 海南,#genre#
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
@@ -3237,14 +3237,14 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 吉林,#genre#
-吉林卫视,https://127.0.0.1:8080/jlntv/jlws.m3u8?t=1787516628&key=4b1a112291d019e9bb8d2bad2a13f4f3
-吉林都市,https://127.0.0.1:8080/jlntv/jlds.m3u8?t=1787516628&key=da9a6ffcba8331d3223a79bbe12ab1c8
-吉林生活,https://127.0.0.1:8080/jlntv/jlsh.m3u8?t=1787516628&key=a2f40913527ff68453832870c92b71a6
-吉林影视,https://127.0.0.1:8080/jlntv/jlys.m3u8?t=1787516628&key=be76c2577646301af348a7f613079471
-吉林乡村,https://127.0.0.1:8080/jlntv/jlxc.m3u8?t=1787516628&key=477bcbfb2ef440426dcdd5fb26010a44
-吉林公共新闻,https://127.0.0.1:8080/jlntv/jlggxw.m3u8?t=1787516628&key=d3a4fbe3ac276fe0f2e5c44b8b9d3e16
-吉林综艺文化,https://127.0.0.1:8080/jlntv/jlzywh.m3u8?t=1787516628&key=fba3f6ca0f7207c2af71e21c20c68205
-东北戏曲,https://127.0.0.1:8080/jlntv/dbxq.m3u8?t=1787516628&key=d67595e6bebe21a8e6d3dd439e064ab1
+吉林卫视,https://127.0.0.1:8080/jlntv/jlws.m3u8?t=1787520143&key=a296c84891927014a381f507c02e59a0
+吉林都市,https://127.0.0.1:8080/jlntv/jlds.m3u8?t=1787520143&key=49a54bfbf4da5c907c064063c127b0ba
+吉林生活,https://127.0.0.1:8080/jlntv/jlsh.m3u8?t=1787520143&key=3c93fa3046f3aa4c640391d7766f5f7a
+吉林影视,https://127.0.0.1:8080/jlntv/jlys.m3u8?t=1787520143&key=e2761b7283060ea15ffb8ad8cee0d007
+吉林乡村,https://127.0.0.1:8080/jlntv/jlxc.m3u8?t=1787520143&key=131c70a0f2252cb6975e42bc6f8bc3b9
+吉林公共新闻,https://127.0.0.1:8080/jlntv/jlggxw.m3u8?t=1787520143&key=aba331f1b8b93cdad7b3f87f915fe3dc
+吉林综艺文化,https://127.0.0.1:8080/jlntv/jlzywh.m3u8?t=1787520143&key=84a64d1889258f03182057c023de3146
+东北戏曲,https://127.0.0.1:8080/jlntv/dbxq.m3u8?t=1787520143&key=ae7f0c90c46a3bc83dddb947ebbbd278
 长春综合,http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 长春文旅体育,http://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
 长春市民生活,http://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
